@@ -16,7 +16,14 @@
         ],
         "classpath": [
             "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/scala-2.12/classes",
-            "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+            "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2.jar"
         ],
         "out": "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0",
         "classesDir": "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/scala-2.12/test-classes",
@@ -121,6 +128,125 @@
                             "name": "scala-library",
                             "classifier": "sources",
                             "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle_2.12",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5.jar"
+                        },
+                        {
+                            "name": "upickle_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "ujson_2.12",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "ujson_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5.jar"
+                        },
+                        {
+                            "name": "ujson_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upack_2.12",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upack_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5.jar"
+                        },
+                        {
+                            "name": "upack_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle-implicits_2.12",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle-implicits_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5.jar"
+                        },
+                        {
+                            "name": "upickle-implicits_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle-core_2.12",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle-core_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5.jar"
+                        },
+                        {
+                            "name": "upickle-core_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang.modules",
+                    "name": "scala-collection-compat_2.12",
+                    "version": "2.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-collection-compat_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0.jar"
+                        },
+                        {
+                            "name": "scala-collection-compat_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "geny_2.12",
+                    "version": "0.4.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "geny_2.12",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2.jar"
+                        },
+                        {
+                            "name": "geny_2.12",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2-sources.jar"
                         }
                     ]
                 },

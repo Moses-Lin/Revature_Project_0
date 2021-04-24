@@ -3,7 +3,7 @@ package game
 object Main {
 
     def main(args: Array[String]):Unit = {
-        val Cli = new Cli
-        Cli.menu()
+        val startmenu = new StartMenu
+        startmenu.menu()
     }
 }

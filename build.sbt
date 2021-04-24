@@ -1,0 +1,1 @@
+libraryDependencies += "com.lihaoyi" %% "upickle" % "0.9.5"
