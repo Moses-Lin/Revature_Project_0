@@ -1,27 +1,29 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/revature_project_0_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/revature_project_0_2.13-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/ShopMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/ShopMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/ShopMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	game/FightMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/FightMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Player$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Player$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Main.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/TownMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/TownMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/TownMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Menu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/Menu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Menu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/RandomEnemy.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/RandomEnemy.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/RandomEnemy.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/StartMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/StartMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/StartMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/DungeonMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/DungeonMenu.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/DungeonMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/RandomEnemy$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/RandomEnemy$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/RandomEnemy$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Player.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/classes/game/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Player.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

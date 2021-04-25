@@ -21,11 +21,12 @@ class StartMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "New_Game" => {
           println("this is a new game")
           continueMenuLoop = false
-          val TownMenu = new TownMenu
-          TownMenu.menu()
+          val NewGameMenu = new NewGameMenu
+          NewGameMenu.menu()
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           println("this is a saved game")
+          // Placeholder
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
@@ -48,6 +49,7 @@ class StartMenu extends Menu {
   }
 
   override def printWelcome(): Unit = {
+    println("================================================")
     println(" ")
     println("Welcome to a somewhat mediocre adventure!")
     println(" ")
@@ -57,11 +59,16 @@ class StartMenu extends Menu {
 
   override def printMenuOptions(): Unit = {
     List(
-      "   ░▒▓▆▅▃▂▁𝐎𝐩𝐭𝐢𝐨𝐧𝐬▁▂▃▅▆▓▒░",
-      "------------------------------",
-      "★ New_Game    | Start a new adventure",
-      "★ Saved_Game  | Resume where you left off",
-      "★ Exit        | Exit the game."
+      "================================================",
+      "                                                ",
+      "        ░▒▓▆▅▃▂▁𝐎𝐩𝐭𝐢𝐨𝐧𝐬▁▂▃▅▆▓▒░          ",
+      "------------------------------------------------",
+      "                                                ",
+      "★ New_Game    |  Start a new adventure          ",
+      "★ Saved_Game  |  Resume where you left off      ",
+      "★ Exit        |  Exit the game.                 ",
+      "                                                ",
+      "================================================",
     ).foreach(println)
 
   }

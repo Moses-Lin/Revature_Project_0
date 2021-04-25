@@ -20,6 +20,9 @@ class TownMenu extends Menu {
       input match {
         case commandArgPattern(cmd, arg) if cmd == "Dungeon" => {
           println("You head to the nearby dungeon to fight monsters")
+          continueMenuLoop = false
+          val DungeonMenu = new DungeonMenu
+          DungeonMenu.menu()
         }
         case commandArgPattern(cmd, arg) if cmd == "Shop" => {
           println("You head to the town shop")
@@ -67,9 +70,9 @@ class TownMenu extends Menu {
 	"        *                                               *",
 	"        *         You're Currently at Home              *",
 	"        *                                               *",
-	"        *     1. DUNGEON |   Go to fight monsters       *",
-	"        *     2. SHOP    |   Go to buy or sell items    *",
-	"        *     3. SLEEP   |   Rest up and save progress  *",
+	"        *     1. Dungeon |   Go to fight monsters       *",
+	"        *     2. Shop    |   Go to buy or sell items    *",
+	"        *     3. Sleep   |   Rest up and save progress  *",
     "        *     4. Exit    |   Exit the Game              *",
 	"        *                                               *",
 	"        *************************************************"

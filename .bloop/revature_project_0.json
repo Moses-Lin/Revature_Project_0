@@ -6,46 +6,46 @@
         "workspaceDir": "/home/sadcat/myfolder/Revature_Project_0",
         "sources": [
             "/home/sadcat/myfolder/Revature_Project_0/src/main/scala",
-            "/home/sadcat/myfolder/Revature_Project_0/src/main/scala-2.12",
+            "/home/sadcat/myfolder/Revature_Project_0/src/main/scala-2.13",
             "/home/sadcat/myfolder/Revature_Project_0/src/main/scala-2",
             "/home/sadcat/myfolder/Revature_Project_0/src/main/java",
-            "/home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/src_managed/main"
+            "/home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/src_managed/main"
         ],
         "dependencies": [
             
         ],
         "classpath": [
-            "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0.jar",
-            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2.jar"
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.13/0.9.5/upickle_2.13-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_2.13/0.7.3/os-lib_2.13-0.7.3.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.13/0.9.5/ujson_2.13-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.13/0.9.5/upack_2.13-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.13/0.9.5/upickle-implicits_2.13-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.13/0.9.5/upickle-core_2.13-0.9.5.jar",
+            "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar"
         ],
         "out": "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0",
-        "classesDir": "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/scala-2.12/classes",
+        "classesDir": "/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/scala-2.13/classes",
         "resources": [
             "/home/sadcat/myfolder/Revature_Project_0/src/main/resources",
-            "/home/sadcat/myfolder/Revature_Project_0/target/scala-2.12/resource_managed/main"
+            "/home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/resource_managed/main"
         ],
         "scala": {
             "organization": "org.scala-lang",
             "name": "scala-compiler",
-            "version": "2.12.12",
+            "version": "2.13.3",
             "options": [
                 
             ],
             "jars": [
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/jline.jar",
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-compiler.jar",
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/jansi.jar",
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar",
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar",
-                "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar"
+                "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar",
+                "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar",
+                "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar",
+                "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar",
+                "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
             ],
-            "analysis": "/home/sadcat/myfolder/Revature_Project_0/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
+            "analysis": "/home/sadcat/myfolder/Revature_Project_0/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -116,153 +116,170 @@
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.12.12",
+                    "version": "2.13.3",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.lihaoyi",
-                    "name": "upickle_2.12",
+                    "name": "upickle_2.13",
                     "version": "0.9.5",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "upickle_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5.jar"
+                            "name": "upickle_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.13/0.9.5/upickle_2.13-0.9.5.jar"
                         },
                         {
-                            "name": "upickle_2.12",
+                            "name": "upickle_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.12/0.9.5/upickle_2.12-0.9.5-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.13/0.9.5/upickle_2.13-0.9.5-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.lihaoyi",
-                    "name": "ujson_2.12",
-                    "version": "0.9.5",
+                    "name": "os-lib_2.13",
+                    "version": "0.7.3",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "ujson_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5.jar"
+                            "name": "os-lib_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_2.13/0.7.3/os-lib_2.13-0.7.3.jar"
                         },
                         {
-                            "name": "ujson_2.12",
+                            "name": "os-lib_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.12/0.9.5/ujson_2.12-0.9.5-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_2.13/0.7.3/os-lib_2.13-0.7.3-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.lihaoyi",
-                    "name": "upack_2.12",
+                    "name": "ujson_2.13",
                     "version": "0.9.5",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "upack_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5.jar"
+                            "name": "ujson_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.13/0.9.5/ujson_2.13-0.9.5.jar"
                         },
                         {
-                            "name": "upack_2.12",
+                            "name": "ujson_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.12/0.9.5/upack_2.12-0.9.5-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.13/0.9.5/ujson_2.13-0.9.5-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.lihaoyi",
-                    "name": "upickle-implicits_2.12",
+                    "name": "upack_2.13",
                     "version": "0.9.5",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "upickle-implicits_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5.jar"
+                            "name": "upack_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.13/0.9.5/upack_2.13-0.9.5.jar"
                         },
                         {
-                            "name": "upickle-implicits_2.12",
+                            "name": "upack_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.12/0.9.5/upickle-implicits_2.12-0.9.5-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.13/0.9.5/upack_2.13-0.9.5-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "com.lihaoyi",
-                    "name": "upickle-core_2.12",
+                    "name": "upickle-implicits_2.13",
                     "version": "0.9.5",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "upickle-core_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5.jar"
+                            "name": "upickle-implicits_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.13/0.9.5/upickle-implicits_2.13-0.9.5.jar"
                         },
                         {
-                            "name": "upickle-core_2.12",
+                            "name": "upickle-implicits_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.12/0.9.5/upickle-core_2.12-0.9.5-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.13/0.9.5/upickle-implicits_2.13-0.9.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "geny_2.13",
+                    "version": "0.6.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "geny_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar"
+                        },
+                        {
+                            "name": "geny_2.13",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle-core_2.13",
+                    "version": "0.9.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle-core_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.13/0.9.5/upickle-core_2.13-0.9.5.jar"
+                        },
+                        {
+                            "name": "upickle-core_2.13",
+                            "classifier": "sources",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.13/0.9.5/upickle-core_2.13-0.9.5-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang.modules",
-                    "name": "scala-collection-compat_2.12",
+                    "name": "scala-collection-compat_2.13",
                     "version": "2.0.0",
                     "configurations": "default",
                     "artifacts": [
                         {
-                            "name": "scala-collection-compat_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0.jar"
+                            "name": "scala-collection-compat_2.13",
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar"
                         },
                         {
-                            "name": "scala-collection-compat_2.12",
+                            "name": "scala-collection-compat_2.13",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.0.0/scala-collection-compat_2.12-2.0.0-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.lihaoyi",
-                    "name": "geny_2.12",
-                    "version": "0.4.2",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "geny_2.12",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2.jar"
-                        },
-                        {
-                            "name": "geny_2.12",
-                            "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.12/0.4.2/geny_2.12-0.4.2-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0-sources.jar"
                         }
                     ]
                 },
                 {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
-                    "version": "2.12.12",
+                    "version": "2.13.3",
                     "configurations": "optional",
                     "artifacts": [
                         {
                             "name": "scala-library",
-                            "path": "/home/sadcat/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar"
                         },
                         {
                             "name": "scala-library",
                             "classifier": "sources",
-                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                            "path": "/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3-sources.jar"
                         }
                     ]
                 }
