@@ -38,13 +38,24 @@ class StartMenu extends Menu {
             
             case nsfe: NoSuchFileException => {
 
+              println(" ")
               println("There are no save files yet!")
-              continueMenuLoop = false
+              println("Sending you back to the title screen")
+              println(" ")
+
+              val StartMenu = new StartMenu
+              StartMenu.menu()
             }
           }
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
+        }
+
+        case commandArgPattern(cmd, arg) if cmd == "Test" => {
+          val jsonString = os.read(os.pwd/"enemybeginner.json")
+          val data = ujson.read(jsonString)
+          println(data(1)("name"))
         }
         case commandArgPattern(cmd, arg) => {
           println(" ")
@@ -76,7 +87,7 @@ class StartMenu extends Menu {
     List(
       "================================================",
       "                                                ",
-      "        ░▒▓▆▅▃▂▁𝐎𝐩𝐭𝐢𝐨𝐧𝐬▁▂▃▅▆▓▒░          ",
+      "    ░▒▓▆▅▃▂▁Mediocre Adventure▁▂▃▅▆▓▒░   ",
       "------------------------------------------------",
       "                                                ",
       "★ New_Game    |  Start a new adventure          ",

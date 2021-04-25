@@ -6,9 +6,6 @@ import scala.collection.mutable.Map
 
 class FightMenu extends Menu{
 
-  val jsonString = os.read(os.pwd/"enemy.json")
-  val data = ujson.read(jsonString)
-
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
   override def menu(): Unit = {
@@ -19,9 +16,14 @@ class FightMenu extends Menu{
 
       var input = StdIn.readLine()
       input match {
-        case commandArgPattern(cmd, arg) if cmd == "Test" => {
-         println(data.value)
+        case commandArgPattern(cmd, arg) if cmd == "Fight" => {
+         continueMenuLoop = false
+            // placeholder
+        }
 
+        case commandArgPattern(cmd, arg) if cmd == "Item" => {
+         continueMenuLoop = false
+            // placeholder
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Run" => {
@@ -55,7 +57,8 @@ class FightMenu extends Menu{
 	"        *         You're currently fighting             *",
 	"        *                                               *",
 	"        *     1. Test   |   FIGHT                       *",
-    "        *     2. Run    |   Exit the Game               *",
+    "        *     2. Item   |   Use an item                 *",
+    "        *     3. Run    |   Exit the Game               *",
 	"        *                                               *",
 	"        *************************************************"
     ).foreach(println)

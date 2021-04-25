@@ -12,6 +12,9 @@ class NewGameMenu extends Menu {
 
     val playername = StdIn.readLine("What's your name adventurer?     ")
 
+    val CurrentPlayerState = ujson.Obj("playername" -> playername)
+    os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
     println(" ")
     println(s"Ah, it's nice to meet you $playername.")
     println(" ")
@@ -32,6 +35,7 @@ class NewGameMenu extends Menu {
       input match {
         case commandArgPattern(cmd, arg) if cmd == "Warrior" => {
           val CurrentPlayer = new Warrior
+
           val TownMenu = new TownMenu
           TownMenu.menu()
           continueMenuLoop = false
@@ -39,6 +43,8 @@ class NewGameMenu extends Menu {
 
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {
           val CurrentPlayer = new Rogue
+
+
           val TownMenu = new TownMenu
           TownMenu.menu()
           continueMenuLoop = false

@@ -5,8 +5,7 @@
         "damage": 1,
         "speed": 2,
         "exp": 1,
-        "drops": ["bone"],
-        "encounter": 1
+        "drops": ["bone"]
     },
     {
         "name": "Small Slime",
@@ -14,8 +13,7 @@
         "damage": 2,
         "speed": 1,
         "exp": 2,
-        "drops": ["gel"],
-        "encounter": 2
+        "drops": ["gel"]
     },
     {
         "name": "Small Spider",
@@ -23,8 +21,7 @@
         "damage": 1,
         "speed": 3,
         "exp": 1,
-        "drops": ["silk"],
-        "encounter": 3
+        "drops": ["silk"]
     },
     {
         "name": "Small Goblin",
@@ -32,7 +29,6 @@
         "damage": 3,
         "speed": 2,
         "exp": 5,
-        "drops": ["bones"],
-        "encounter": 4
+        "drops": ["bones"]
     }
 ]

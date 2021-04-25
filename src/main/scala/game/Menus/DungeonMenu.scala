@@ -18,7 +18,28 @@ class DungeonMenu extends Menu {
 
       var input = StdIn.readLine()
       input match {
-        case commandArgPattern(cmd, arg) if cmd == "Fight" => {
+        case commandArgPattern(cmd, arg) if cmd == "Floor_1" => {
+          println("You look for a fight.")
+          continueMenuLoop = false
+          val FightMenu = new FightMenu
+          FightMenu.menu()
+        }
+
+        case commandArgPattern(cmd, arg) if cmd == "Floor_2" => {
+          println("You look for a fight.")
+          continueMenuLoop = false
+          val FightMenu = new FightMenu
+          FightMenu.menu()
+        }
+
+        case commandArgPattern(cmd, arg) if cmd == "Floor_3" => {
+          println("You look for a fight.")
+          continueMenuLoop = false
+          val FightMenu = new FightMenu
+          FightMenu.menu()
+        }
+
+        case commandArgPattern(cmd, arg) if cmd == "Floor_4" => {
           println("You look for a fight.")
           continueMenuLoop = false
           val FightMenu = new FightMenu
@@ -30,6 +51,7 @@ class DungeonMenu extends Menu {
           val TownMenu = new TownMenu
           TownMenu.menu()
         }
+        
         case commandArgPattern(cmd, arg) => {
           println(" ")
           println(
@@ -67,8 +89,11 @@ class DungeonMenu extends Menu {
 	"        *                                               *",
 	"        *      You're currently in a dungeon            *",
 	"        *                                               *",
-	"        *     1. Fight   |   Go to fight monsters       *",
-    "        *     2. Exit    |   Exit back to town          *",
+	"        *     1. Floor_1  |   Beginner enemies          *",
+    "        *     2. Floor_2  |   Intermediate enemies      *",
+    "        *     3. Floor_3  |   Advanced enemies          *",
+    "        *     4. Floor_4  |   ????                      *",
+    "        *     5. Exit     |   Head back to town         *",
 	"        *                                               *",
 	"        *************************************************"
     ).foreach(println)
