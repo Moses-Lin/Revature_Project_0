@@ -3,6 +3,8 @@ package game
 import scala.io.StdIn
 import scala.util.matching.Regex
 import scala.collection.mutable.Map
+import java.io.FileNotFoundException
+import java.nio.file.NoSuchFileException
 
 class StartMenu extends Menu {
 
@@ -29,8 +31,17 @@ class StartMenu extends Menu {
           NewGameMenu.nameselect()
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
-          println("this is a saved game")
-          // Placeholder
+          continueMenuLoop = false
+          try {
+          val jsonString = os.read(os.pwd/"player.json")
+          } catch {
+            
+            case nsfe: NoSuchFileException => {
+
+              println("There are no save files yet!")
+              continueMenuLoop = false
+            }
+          }
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
