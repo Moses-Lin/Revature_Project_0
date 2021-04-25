@@ -1,5 +1,5 @@
-package game.Menus
+package game
 
-class DungeonMenu {
+class DungeonMenu extends Menu{
   
 }

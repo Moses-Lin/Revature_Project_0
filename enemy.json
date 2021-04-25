@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Mouse",
+        "health": 2,
+        "damage": 1,
+        "speed": 2,
+        "exp": 1,
+        "drops": ["bone"],
+        "encounter": 1
+    },
+    {
+        "name": "Small Slime",
+        "health": 5,
+        "damage": 2,
+        "speed": 1,
+        "exp": 2,
+        "drops": ["gel"],
+        "encounter": 2
+    },
+    {
+        "name": "Small Spider",
+        "health": 4,
+        "damage": 1,
+        "speed": 3,
+        "exp": 1,
+        "drops": ["silk"],
+        "encounter": 3
+    },
+    {
+        "name": "Small Goblin",
+        "health": 5,
+        "damage": 3,
+        "speed": 2,
+        "exp": 5,
+        "drops": ["bones"],
+        "encounter": 4
+    }
+]

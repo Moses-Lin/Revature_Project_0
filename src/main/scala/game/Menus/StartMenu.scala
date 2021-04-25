@@ -20,6 +20,9 @@ class StartMenu extends Menu {
       input match {
         case commandArgPattern(cmd, arg) if cmd == "New_Game" => {
           println("this is a new game")
+          continueMenuLoop = false
+          val TownMenu = new TownMenu
+          TownMenu.menu()
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           println("this is a saved game")
