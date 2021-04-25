@@ -3,17 +3,17 @@ package game
 import scala.io.StdIn
 import scala.util.matching.Regex
 import scala.collection.mutable.Map
+import scala.annotation.varargs
 
 class NewGameMenu extends Menu {
   
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
-  def nameselect(): Unit = {
+  override def menu(): Unit = {
 
     val playername = StdIn.readLine("What's your name adventurer?     ")
 
-    val CurrentPlayerState = ujson.Obj("playername" -> playername)
-    os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+    val CurrentPlayerState = ujson.Obj("playername" -> playername, "health" -> 0, "damage" -> 0, "speed" -> 0, "level" -> 0)
 
     println(" ")
     println(s"Ah, it's nice to meet you $playername.")
@@ -21,24 +21,26 @@ class NewGameMenu extends Menu {
     println("How would you like to start?")
     println(" ")
 
-    val NewGameMenu = new NewGameMenu
-    NewGameMenu.menu()
-  }
-
-  override def menu(): Unit = {
-
     var continueMenuLoop = true
     while (continueMenuLoop) {
       printMenuOptions()
 
-      var input = StdIn.readLine()
+    var input = StdIn.readLine()
       input match {
         case commandArgPattern(cmd, arg) if cmd == "Warrior" => {
           val CurrentPlayer = new Warrior
 
+          CurrentPlayerState("health") = CurrentPlayer.health
+          CurrentPlayerState("damage") = CurrentPlayer.damage
+          CurrentPlayerState("speed") = CurrentPlayer.speed
+          CurrentPlayerState("level") = CurrentPlayer.level
+
+          os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
+          continueMenuLoop = false
+
           val TownMenu = new TownMenu
           TownMenu.menu()
-          continueMenuLoop = false
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {

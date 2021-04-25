@@ -3,10 +3,10 @@ package game
 class Warrior {
 
     var classname = "warrior"
-    var health =  10
-    var damage =  2
-    var speed =  2
-    var level = 1
+    var health: Int =  10
+    var damage: Int =  2
+    var speed: Int =  2
+    var level: Int = 1
 
     def getHealth {
         println(health)

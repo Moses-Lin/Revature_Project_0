@@ -28,12 +28,12 @@ class StartMenu extends Menu {
 
           continueMenuLoop = false
           val NewGameMenu = new NewGameMenu
-          NewGameMenu.nameselect()
+          NewGameMenu.menu()
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           continueMenuLoop = false
           try {
-          val jsonString = os.read(os.pwd/"player.json")
+          val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
           } catch {
             
             case nsfe: NoSuchFileException => {
@@ -53,9 +53,8 @@ class StartMenu extends Menu {
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Test" => {
-          val jsonString = os.read(os.pwd/"enemybeginner.json")
-          val data = ujson.read(jsonString)
-          println(data(1)("name"))
+          val Warrior = new Warrior
+          println(Warrior.health)
         }
         case commandArgPattern(cmd, arg) => {
           println(" ")
