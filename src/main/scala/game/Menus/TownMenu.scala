@@ -58,7 +58,6 @@ class TownMenu extends Menu {
     println(" ")
     println("You're now in town.")
     println(" ")
-    println("What should I do now?")
     println(" ")
   }
 

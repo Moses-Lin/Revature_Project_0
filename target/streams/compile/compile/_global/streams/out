@@ -1,13 +1,2 @@
-[0m[[0m[31merror[0m] [0m[0m/home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Cli.scala:24:11: not found: value FileUtil[0m
-[0m[[0m[31merror[0m] [0m[0m          FileUtil.getTopLevelFilenames().foreach(println)[0m
-[0m[[0m[31merror[0m] [0m[0m          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Cli.scala:67:15: not found: value FileUtil[0m
-[0m[[0m[31merror[0m] [0m[0m      println(FileUtil.getTextContent(filename).substring(0, 100))[0m
-[0m[[0m[31merror[0m] [0m[0m              ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Cli.scala:83:17: not found: value FileUtil[0m
-[0m[[0m[31merror[0m] [0m[0m    val words = FileUtil.getTextContent(filename)[0m
-[0m[[0m[31merror[0m] [0m[0m                ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Main.scala:7:9: not found: value Cli[0m
-[0m[[0m[31merror[0m] [0m[0m        Cli.menu()[0m
-[0m[[0m[31merror[0m] [0m[0m        ^[0m
-[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
+[0m[[0m[33mwarn[0m] [0m[0m8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

@@ -19,10 +19,14 @@ class StartMenu extends Menu {
       var input = StdIn.readLine()
       input match {
         case commandArgPattern(cmd, arg) if cmd == "New_Game" => {
-          println("this is a new game")
+
+          println(" ")
+          println("Ah, a new adventurer. Let's begin.")
+          println(" ")
+
           continueMenuLoop = false
           val NewGameMenu = new NewGameMenu
-          NewGameMenu.menu()
+          NewGameMenu.nameselect()
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           println("this is a saved game")

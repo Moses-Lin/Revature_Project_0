@@ -8470,3 +8470,808 @@ WARNING: Unmatched cancel notification for request id 10936
 [0m2021.04.25 15:56:18 INFO  compiling revature_project_0 (1 scala source)[0m
 [0m2021.04.25 15:56:18 WARN  5 deprecations (since 2.13.0); re-run with -deprecation for details[0m
 [0m2021.04.25 15:56:18 INFO  time: compiled revature_project_0 in 0.66s[0m
+Apr 25, 2021 4:02:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10958
+Apr 25, 2021 4:03:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10983
+Apr 25, 2021 4:03:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10989
+Apr 25, 2021 4:03:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10995
+Apr 25, 2021 4:14:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11455
+Apr 25, 2021 4:14:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11461
+Apr 25, 2021 4:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11467
+Apr 25, 2021 4:14:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11475
+Apr 25, 2021 4:14:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11480
+Apr 25, 2021 4:14:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11485
+Apr 25, 2021 4:14:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11501
+Apr 25, 2021 4:14:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11507
+Apr 25, 2021 4:17:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11538
+Apr 25, 2021 4:17:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11545
+Apr 25, 2021 4:17:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11551
+Apr 25, 2021 4:17:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11557
+Apr 25, 2021 4:17:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11563
+Apr 25, 2021 4:17:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11571
+Apr 25, 2021 4:17:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11576
+Apr 25, 2021 4:17:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11581
+Apr 25, 2021 4:17:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11588
+Apr 25, 2021 4:17:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11594
+[0m2021.04.25 16:19:03 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:19:03 INFO  time: compiled revature_project_0 in 0.96s[0m
+Apr 25, 2021 4:19:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11754
+Apr 25, 2021 4:19:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11760
+Apr 25, 2021 4:19:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11795
+Apr 25, 2021 4:19:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11803
+Apr 25, 2021 4:19:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11809
+Apr 25, 2021 4:19:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11815
+Apr 25, 2021 4:19:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11820
+Apr 25, 2021 4:20:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11860
+Apr 25, 2021 4:20:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11866
+Apr 25, 2021 4:20:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11872
+Apr 25, 2021 4:20:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11902
+Apr 25, 2021 4:20:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11941
+Apr 25, 2021 4:20:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11947
+[0m2021.04.25 16:21:11 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:21:11 INFO  time: compiled revature_project_0 in 0.21s[0m
+[0m2021.04.25 16:21:46 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:21:46 INFO  time: compiled revature_project_0 in 0.17s[0m
+Apr 25, 2021 4:21:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12031
+[0m2021.04.25 16:22:00 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:22:01 INFO  time: compiled revature_project_0 in 1.03s[0m
+Apr 25, 2021 4:22:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12047
+Apr 25, 2021 4:22:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12052
+[0m2021.04.25 16:22:24 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:22:24 INFO  time: compiled revature_project_0 in 0.17s[0m
+Apr 25, 2021 4:22:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12077
+Apr 25, 2021 4:22:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12083
+Apr 25, 2021 4:22:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12090
+Apr 25, 2021 4:23:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12097
+Apr 25, 2021 4:23:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12102
+[0m2021.04.25 16:23:32 INFO  compiling revature_project_0 (2 scala sources)[0m
+Apr 25, 2021 4:23:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12133
+[0m2021.04.25 16:23:36 INFO  time: compiled revature_project_0 in 3.3s[0m
+[0m2021.04.25 16:23:36 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:23:36 INFO  time: compiled revature_project_0 in 0.24s[0m
+Apr 25, 2021 4:23:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12140
+Apr 25, 2021 4:24:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12150
+Apr 25, 2021 4:24:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12155
+Apr 25, 2021 4:24:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12176
+Apr 25, 2021 4:24:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12182
+Apr 25, 2021 4:24:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12202
+Apr 25, 2021 4:24:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12207
+Apr 25, 2021 4:24:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12213
+[0m2021.04.25 16:25:17 INFO  compiling revature_project_0 (2 scala sources)[0m
+Apr 25, 2021 4:25:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12222
+[0m2021.04.25 16:25:19 INFO  time: compiled revature_project_0 in 1.49s[0m
+[0m2021.04.25 16:25:19 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:25:19 INFO  time: compiled revature_project_0 in 0.25s[0m
+[0m2021.04.25 16:25:43 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:25:43 INFO  time: compiled revature_project_0 in 0.2s[0m
+Apr 25, 2021 4:26:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12261
+Apr 25, 2021 4:26:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12266
+[0m2021.04.25 16:26:37 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:26:37 INFO  time: compiled revature_project_0 in 0.2s[0m
+Apr 25, 2021 4:26:42 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:26:45 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+[0m2021.04.25 16:26:56 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.25 16:26:56 INFO  time: compiled revature_project_0 in 0.28s[0m
+[0m2021.04.25 16:27:14 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:27:14 INFO  time: compiled revature_project_0 in 0.19s[0m
+[0m2021.04.25 16:27:14 INFO  compiling revature_project_0 (3 scala sources)[0m
+Apr 25, 2021 4:27:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12350
+[0m2021.04.25 16:27:14 INFO  time: compiled revature_project_0 in 0.28s[0m
+Apr 25, 2021 4:27:18 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.$anonfun$resolve$1(CompletionItemResolver.scala:17)
+	at scala.Option.orElse(Option.scala:477)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:17)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:165)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:164)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:241)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:240)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:239)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1442)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1440)
+	at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:27:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12379
+Apr 25, 2021 4:27:24 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:27:24 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:27:25 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:27:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12388
+Apr 25, 2021 4:27:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12394
+Apr 25, 2021 4:27:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12404
+[0m2021.04.25 16:27:35 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Warrior.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Warrior.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+Apr 25, 2021 4:27:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12443
+Apr 25, 2021 4:27:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12449
+Apr 25, 2021 4:27:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12455
+Apr 25, 2021 4:27:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12462
+[0m2021.04.25 16:27:59 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:27:59 INFO  time: compiled revature_project_0 in 0.18s[0m
+Apr 25, 2021 4:28:09 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: null
+[0m2021.04.25 16:28:16 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:28:16 INFO  time: compiled revature_project_0 in 0.22s[0m
+[0m2021.04.25 16:28:19 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:28:19 INFO  time: compiled revature_project_0 in 0.33s[0m
+Apr 25, 2021 4:28:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12565
+Apr 25, 2021 4:28:29 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:82)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:28:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12574
+Apr 25, 2021 4:28:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12580
+Apr 25, 2021 4:28:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12586
+Apr 25, 2021 4:29:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12605
+Apr 25, 2021 4:29:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12610
+[0m2021.04.25 16:29:16 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:29:16 INFO  time: compiled revature_project_0 in 0.15s[0m
+Apr 25, 2021 4:29:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12657
+Apr 25, 2021 4:29:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12663
+[0m2021.04.25 16:29:50 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:29:50 INFO  time: compiled revature_project_0 in 0.16s[0m
+Apr 25, 2021 4:29:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12744
+[0m2021.04.25 16:30:27 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:30:27 INFO  time: compiled revature_project_0 in 0.15s[0m
+Apr 25, 2021 4:30:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12840
+Apr 25, 2021 4:30:30 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:277)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:199)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:50)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:185)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:103)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+Apr 25, 2021 4:30:39 PM scala.meta.internal.metals.Docstrings indexSymbol
+SEVERE: file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+java.nio.file.NoSuchFileException: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Player.scala
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:214)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:435)
+	at scala.meta.internal.metals.Docstrings.indexSymbolDefinition(Docstrings.scala:89)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:73)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:38)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:37)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:162)
+	at scala.meta.internal.pc.CompletionItemResolver.resolve(CompletionItemResolver.scala:16)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$completionItemResolve$1(ScalaPresentationCompiler.scala:165)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.completionItemResolve(ScalaPresentationCompiler.scala:164)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$2(Compilers.scala:241)
+	at scala.Option.map(Option.scala:230)
+	at scala.meta.internal.metals.Compilers.$anonfun$completionItemResolve$1(Compilers.scala:240)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.metals.Compilers.completionItemResolve(Compilers.scala:239)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$completionItemResolve$1(MetalsLanguageServer.scala:1442)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.completionItemResolve(MetalsLanguageServer.scala:1440)
+	at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+
+[0m2021.04.25 16:30:46 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:30:46 INFO  time: compiled revature_project_0 in 0.2s[0m
+[0m2021.04.25 16:31:25 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:31:25 INFO  time: compiled revature_project_0 in 0.2s[0m
+[0m2021.04.25 16:31:41 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:31:41 INFO  time: compiled revature_project_0 in 0.19s[0m
+[0m2021.04.25 16:31:46 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:31:46 INFO  time: compiled revature_project_0 in 0.14s[0m
+Apr 25, 2021 4:31:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13014
+[0m2021.04.25 16:31:53 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:31:53 INFO  time: compiled revature_project_0 in 0.24s[0m
+Apr 25, 2021 4:31:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13039
+[0m2021.04.25 16:32:07 INFO  compiling revature_project_0 (3 scala sources)[0m
+[0m2021.04.25 16:32:07 INFO  time: compiled revature_project_0 in 0.12s[0m
+Apr 25, 2021 4:32:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13070
+Apr 25, 2021 4:32:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13076
+Apr 25, 2021 4:32:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13082
+[0m2021.04.25 16:34:17 INFO  compiling revature_project_0 (4 scala sources)[0m
+Apr 25, 2021 4:34:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13185
+[0m2021.04.25 16:34:17 INFO  time: compiled revature_project_0 in 0.14s[0m
+[0m2021.04.25 16:34:17 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:34:17 INFO  time: compiled revature_project_0 in 0.11s[0m
+Apr 25, 2021 4:34:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13190
+Apr 25, 2021 4:34:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13196
+Apr 25, 2021 4:34:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13201
+Apr 25, 2021 4:34:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13218
+Apr 25, 2021 4:34:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13271
+Apr 25, 2021 4:34:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13278
+Apr 25, 2021 4:34:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13284
+Apr 25, 2021 4:34:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13290
+Apr 25, 2021 4:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13296
+Apr 25, 2021 4:34:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13303
+[0m2021.04.25 16:34:49 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:34:49 INFO  time: compiled revature_project_0 in 0.15s[0m
+Apr 25, 2021 4:34:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13314
+[0m2021.04.25 16:36:02 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:36:03 INFO  time: compiled revature_project_0 in 1.31s[0m
+Apr 25, 2021 4:36:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13335
+[0m2021.04.25 16:36:25 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:36:25 INFO  time: compiled revature_project_0 in 0.15s[0m
+Apr 25, 2021 4:36:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13372
+Apr 25, 2021 4:36:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13378
+Apr 25, 2021 4:36:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13384
+Apr 25, 2021 4:36:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13391
+Apr 25, 2021 4:36:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13397
+Apr 25, 2021 4:36:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13403
+Apr 25, 2021 4:36:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13409
+Apr 25, 2021 4:36:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13415
+Apr 25, 2021 4:36:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13421
+Apr 25, 2021 4:36:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13427
+Apr 25, 2021 4:36:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13433
+Apr 25, 2021 4:36:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13439
+[0m2021.04.25 16:36:45 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:36:45 INFO  time: compiled revature_project_0 in 0.16s[0m
+[0m2021.04.25 16:36:45 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:36:45 INFO  time: compiled revature_project_0 in 82ms[0m
+Apr 25, 2021 4:36:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13450
+Apr 25, 2021 4:36:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13457
+Apr 25, 2021 4:36:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13482
+[0m2021.04.25 16:36:57 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:36:57 INFO  time: compiled revature_project_0 in 0.22s[0m
+Apr 25, 2021 4:36:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13509
+[0m2021.04.25 16:37:03 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:37:05 INFO  time: compiled revature_project_0 in 1.47s[0m
+Apr 25, 2021 4:37:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13541
+Apr 25, 2021 4:37:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13547
+Apr 25, 2021 4:37:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13553
+Apr 25, 2021 4:37:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13559
+Apr 25, 2021 4:37:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13572
+Apr 25, 2021 4:37:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13578
+Apr 25, 2021 4:37:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13584
+Apr 25, 2021 4:37:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13590
+[0m2021.04.25 16:37:47 INFO  compiling revature_project_0 (5 scala sources)[0m
+Apr 25, 2021 4:37:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13609
+[0m2021.04.25 16:37:48 INFO  time: compiled revature_project_0 in 1.59s[0m
+[0m2021.04.25 16:37:48 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:37:48 INFO  time: compiled revature_project_0 in 0.61s[0m
+Apr 25, 2021 4:38:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13634
+Apr 25, 2021 4:38:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13640
+Apr 25, 2021 4:38:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13646
+Apr 25, 2021 4:38:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13652
+Apr 25, 2021 4:38:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13658
+Apr 25, 2021 4:38:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13667
+Apr 25, 2021 4:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13673
+Apr 25, 2021 4:38:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13679
+Apr 25, 2021 4:38:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13685
+Apr 25, 2021 4:39:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13692
+[0m2021.04.25 16:39:16 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:18 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:23 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:23 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:23 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:24 ERROR code navigation does not work for the file '/home/sadcat/myfolder/Revature_Project_0/src/main/scala/PlayerClass/Rogue.scala' because the SemanticDB file '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0/bloop-bsp-clients-classes/classes-Metals-v4tnF-UiQgC73Bv8U2TAUQ==/META-INF/semanticdb/src/main/scala/PlayerClass/Rogue.scala.semanticdb' doesn't exist. There can be many reasons for this error. [0m
+[0m2021.04.25 16:39:28 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:39:29 INFO  time: compiled revature_project_0 in 1.45s[0m
+Apr 25, 2021 4:39:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13781
+Apr 25, 2021 4:39:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13789
+[0m2021.04.25 16:40:08 INFO  compiling revature_project_0 (5 scala sources)[0m
+Apr 25, 2021 4:40:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13842
+Apr 25, 2021 4:40:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13848
+[0m2021.04.25 16:40:10 INFO  time: compiled revature_project_0 in 2.12s[0m
+[0m2021.04.25 16:40:10 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:40:10 INFO  time: compiled revature_project_0 in 0.55s[0m
+[0m2021.04.25 16:40:19 INFO  compiling revature_project_0 (5 scala sources)[0m
+Apr 25, 2021 4:40:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13898
+[0m2021.04.25 16:40:21 INFO  time: compiled revature_project_0 in 1.99s[0m
+[0m2021.04.25 16:40:21 INFO  compiling revature_project_0 (5 scala sources)[0m
+[0m2021.04.25 16:40:21 INFO  time: compiled revature_project_0 in 0.39s[0m
+Apr 25, 2021 4:40:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13909
+Apr 25, 2021 4:40:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13929
+Apr 25, 2021 4:40:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13953
+[0m2021.04.25 16:40:56 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:40:56 INFO  time: compiled revature_project_0 in 0.18s[0m
+Apr 25, 2021 4:40:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13969
+[0m2021.04.25 16:40:59 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:41:02 INFO  time: compiled revature_project_0 in 2.4s[0m
+[0m2021.04.25 16:41:34 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:41:35 INFO  time: compiled revature_project_0 in 1.33s[0m
+[0m2021.04.25 16:42:50 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:42:51 INFO  time: compiled revature_project_0 in 1.33s[0m
+Apr 25, 2021 4:42:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14078
+[0m2021.04.25 16:43:08 INFO  compiling revature_project_0 (4 scala sources)[0m
+[0m2021.04.25 16:43:09 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.04.25 16:43:09 INFO  time: compiled revature_project_0 in 1.51s[0m
+Apr 25, 2021 4:43:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14125
+Apr 25, 2021 4:44:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14137
+[0m2021.04.25 16:44:53 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:44:54 INFO  time: compiled revature_project_0 in 1.35s[0m
+Apr 25, 2021 4:44:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14307
+[0m2021.04.25 16:46:44 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:46:46 INFO  time: compiled revature_project_0 in 1.48s[0m
+[0m2021.04.25 16:47:53 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:47:54 INFO  time: compiled revature_project_0 in 1.61s[0m
+[0m2021.04.25 16:50:17 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:50:19 INFO  time: compiled revature_project_0 in 1.5s[0m
+[0m2021.04.25 16:50:40 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:50:42 INFO  time: compiled revature_project_0 in 1.67s[0m
+[0m2021.04.25 16:50:55 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:50:56 INFO  time: compiled revature_project_0 in 1.19s[0m
+[0m2021.04.25 16:52:10 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:52:12 INFO  time: compiled revature_project_0 in 1.66s[0m
+Apr 25, 2021 4:52:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15003
+Apr 25, 2021 4:52:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15009
+Apr 25, 2021 4:52:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15025
+Apr 25, 2021 4:52:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15037
+[0m2021.04.25 16:52:50 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:52:52 WARN  4 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.04.25 16:52:52 INFO  time: compiled revature_project_0 in 1.83s[0m
+Apr 25, 2021 4:52:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15043
+Apr 25, 2021 4:52:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15049
+Apr 25, 2021 4:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15055
+Apr 25, 2021 4:52:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15061
+Apr 25, 2021 4:52:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15066
+Apr 25, 2021 4:52:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15071
+Apr 25, 2021 4:52:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15076
+Apr 25, 2021 4:52:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15082
+Apr 25, 2021 4:53:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15088
+[0m2021.04.25 16:55:06 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:55:09 INFO  time: compiled revature_project_0 in 2.35s[0m
+[0m2021.04.25 16:55:31 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 16:55:32 INFO  time: compiled revature_project_0 in 1.26s[0m
+Apr 25, 2021 4:55:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15424
+Apr 25, 2021 4:56:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15435
+Apr 25, 2021 4:56:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15440
+Apr 25, 2021 4:56:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15445
+Apr 25, 2021 4:56:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15450
+Apr 25, 2021 4:56:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15455
+Apr 25, 2021 4:57:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15516
+Apr 25, 2021 4:58:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15555
+[0m2021.04.25 16:58:10 INFO  compiling revature_project_0 (3 scala sources)[0m
+Apr 25, 2021 4:58:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15595
+[0m2021.04.25 16:58:12 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.04.25 16:58:12 INFO  time: compiled revature_project_0 in 1.4s[0m
+Apr 25, 2021 4:58:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15601
+Apr 25, 2021 4:58:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15640
+Apr 25, 2021 4:58:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15646
+Apr 25, 2021 4:58:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15651
+Apr 25, 2021 4:59:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15700
+Apr 25, 2021 4:59:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15706
+Apr 25, 2021 4:59:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15713
+Apr 25, 2021 4:59:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15719
+Apr 25, 2021 4:59:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15748
+Apr 25, 2021 4:59:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15754
+[0m2021.04.25 17:00:31 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 17:00:31 INFO  time: compiled revature_project_0 in 0.18s[0m
+Apr 25, 2021 5:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15961
+Apr 25, 2021 5:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15967
+Apr 25, 2021 5:00:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15973
+[0m2021.04.25 17:02:01 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 17:02:03 INFO  time: compiled revature_project_0 in 1.7s[0m
+Apr 25, 2021 5:02:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16022
+Apr 25, 2021 5:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16028
+Apr 25, 2021 5:02:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16033
+Apr 25, 2021 5:02:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16039
+Apr 25, 2021 5:05:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16066
+Apr 25, 2021 5:11:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16078
+Apr 25, 2021 5:11:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16084

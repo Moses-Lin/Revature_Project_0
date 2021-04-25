@@ -8,6 +8,20 @@ class NewGameMenu extends Menu {
   
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
+  def nameselect(): Unit = {
+
+    val playername = StdIn.readLine("What's your name adventurer?     ")
+
+    println(" ")
+    println(s"Ah, it's nice to meet you $playername.")
+    println(" ")
+    println("How would you like to start?")
+    println(" ")
+
+    val NewGameMenu = new NewGameMenu
+    NewGameMenu.menu()
+  }
+
   override def menu(): Unit = {
 
     var continueMenuLoop = true
@@ -17,14 +31,17 @@ class NewGameMenu extends Menu {
       var input = StdIn.readLine()
       input match {
         case commandArgPattern(cmd, arg) if cmd == "Warrior" => {
-         
-
+          val CurrentPlayer = new Warrior
+          val TownMenu = new TownMenu
+          TownMenu.menu()
+          continueMenuLoop = false
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {
+          val CurrentPlayer = new Rogue
+          val TownMenu = new TownMenu
+          TownMenu.menu()
           continueMenuLoop = false
-          val DungeonMenu = new DungeonMenu
-          DungeonMenu.menu()
         }
         case commandArgPattern(cmd, arg) => {
           println(" ")
