@@ -106,8 +106,7 @@ class FightMenu extends Menu{
           } else {
             println("The fight continues.")
           }
-          
-
+        
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Item" => {
