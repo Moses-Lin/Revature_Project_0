@@ -5,7 +5,5 @@ case class RandomEnemy(
     health: Int,
     damage: Int,
     speed: Int,
-    exp: Int,
-    drops: List[String],
-    encounter: Int
+    exp: Int
 )

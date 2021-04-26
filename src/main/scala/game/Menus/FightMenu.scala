@@ -18,12 +18,37 @@ class FightMenu extends Menu{
   val enemyselect = e.nextInt((4))
 
   override def menu(): Unit = {
+    
+    val randomenemyname = weakenemystats(enemyselect)("name")
+    
+    val randomenemyhealth = weakenemystats(enemyselect)("health")
+    val randomenemyhealth2 = randomenemyhealth.toString()
+    val randomenemyhealth3 = randomenemyhealth2.toInt
 
-    val randomenemy = weakenemystats(enemyselect)("name")
+    val randomenemydamage = weakenemystats(enemyselect)("damage")
+    val randomenemydamage2 = randomenemydamage.toString()
+    val randomenemydamage3 = randomenemydamage2.toInt
+
+    val randomenemyspeed = weakenemystats(enemyselect)("speed")
+    val randomenemyspeed2 = randomenemyspeed.toString()
+    val randomenemyspeed3 = randomenemyspeed2.toInt
+
+    val randomenemyexp= weakenemystats(enemyselect)("exp")
+    val randomenemyexp2 = randomenemyexp.toString()
+    val randomenemyexp3 = randomenemyexp2.toInt
+
+    var randomenemy = RandomEnemy(randomenemyname.toString(), 
+                                  randomenemyhealth3,
+                                  randomenemydamage3,
+                                  randomenemyspeed3,
+                                  randomenemyexp3
+                                   )
+
+    val EncounterName = randomenemy.name                               
 
     println("-------------------------------------------------------------------------")
     println(" ")
-    println(s"A $randomenemy has appeared! It seems hostile.")
+    println(s"A $EncounterName has appeared! It seems hostile.")
     println(" ")
     println("-------------------------------------------------------------------------")
 
