@@ -42,10 +42,8 @@ class DungeonMenu extends Menu {
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Floor_4" => {
-          println("You look for a fight.")
-          continueMenuLoop = false
-          val FightMenu = new FightMenu
-          FightMenu.menu()
+          println("You can't go here yet.")
+          
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {

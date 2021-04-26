@@ -11545,3 +11545,432 @@ WARNING: Unmatched cancel notification for request id 4027
 [0m2021.04.26 11:51:19 INFO  time: compiled revature_project_0 in 0.98s[0m
 Apr 26, 2021 11:51:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 4267
+Apr 26, 2021 11:53:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4273
+Apr 26, 2021 11:55:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4286
+Apr 26, 2021 11:55:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4292
+Apr 26, 2021 11:55:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4298
+[0m2021.04.26 11:56:08 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 11:56:08 INFO  time: compiled revature_project_0 in 0.89s[0m
+[0m2021.04.26 11:56:33 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 11:56:33 INFO  time: compiled revature_project_0 in 0.83s[0m
+[0m2021.04.26 11:58:29 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Inventory.scala[0m
+Apr 26, 2021 11:58:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4377
+[0m2021.04.26 11:58:29 INFO  no build target: using presentation compiler with only scala-library: 2.13.3[0m
+[0m2021.04.26 11:58:47 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Experience.scala[0m
+Apr 26, 2021 11:58:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4386
+Apr 26, 2021 11:59:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4393
+Apr 26, 2021 11:59:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4398
+Apr 26, 2021 11:59:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4403
+Apr 26, 2021 11:59:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4408
+Apr 26, 2021 11:59:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4415
+Apr 26, 2021 11:59:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4422
+Apr 26, 2021 12:14:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4431
+Apr 26, 2021 12:14:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4436
+Apr 26, 2021 12:14:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4442
+[0m2021.04.26 12:14:31 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Experience.scala[0m
+Apr 26, 2021 12:14:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4452
+Apr 26, 2021 12:22:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4458
+Apr 26, 2021 12:22:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4463
+Apr 26, 2021 12:23:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4472
+Apr 26, 2021 12:23:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4480
+Apr 26, 2021 12:23:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4485
+[0m2021.04.26 12:23:08 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Inventory.scala[0m
+[0m2021.04.26 12:23:18 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Gold.scala[0m
+Apr 26, 2021 12:23:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4492
+Apr 26, 2021 2:20:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4503
+[0m2021.04.26 14:33:48 INFO  time: code lens generation in 4.21s[0m
+[0m2021.04.26 14:33:48 INFO  time: code lens generation in 6.74s[0m
+[0m2021.04.26 14:33:48 INFO  time: code lens generation in 5.26s[0m
+[0m2021.04.26 14:33:48 INFO  time: code lens generation in 4.61s[0m
+[0m2021.04.26 14:33:48 INFO  time: code lens generation in 5.89s[0m
+Apr 26, 2021 2:33:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fhome%2Fsadcat%2Fmyfolder%2FRevature_Project_0%2Fbuild.sbt:10: error: ; expected but , found
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.19", 
+                                                                  ^
+file%3A%2F%2F%2Fhome%2Fsadcat%2Fmyfolder%2FRevature_Project_0%2Fbuild.sbt:10: error: ; expected but , found
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.19", 
+                                                                  ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:870)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:874)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4836)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$scriptSource$1(ScalametaParser.scala:5015)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.scriptSource(ScalametaParser.scala:5014)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2021.04.26 14:33:57 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3122113024456622432/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.04.26 14:33:59 INFO  [info] welcome to sbt 1.4.9 (Private Build Java 1.8.0_282)[0m
+[0m2021.04.26 14:34:01 INFO  [info] loading settings for project revature_project_0-build-build from metals.sbt ...[0m
+[0m2021.04.26 14:34:02 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project/project[0m
+[0m2021.04.26 14:34:03 INFO  [info] loading settings for project revature_project_0-build from metals.sbt ...[0m
+[0m2021.04.26 14:34:03 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project[0m
+[0m2021.04.26 14:34:06 INFO  [success] Generated .bloop/revature_project_0-build.json[0m
+[0m2021.04.26 14:34:06 INFO  [success] Total time: 3 s, completed Apr 26, 2021 2:34:06 PM[0m
+[0m2021.04.26 14:34:06 INFO  [error] [/home/sadcat/myfolder/Revature_Project_0/build.sbt]:4: ';' expected but ',' found.[0m
+[0m2021.04.26 14:34:06 INFO  [warn] Project loading failed: (r)etry, (q)uit, (l)ast, or (i)gnore? (default: r)[0m
+[0m2021.04.26 14:34:06 INFO  sbt bloopInstall exit: 1[0m
+[0m2021.04.26 14:34:07 INFO  time: ran 'sbt bloopInstall' in 9.96s[0m
+[0m2021.04.26 14:34:07 ERROR sbt command failed: /usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals3122113024456622432/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall[0m
+[0m2021.04.26 14:34:07 INFO  Disconnecting from Bloop session...[0m
+[0m2021.04.26 14:34:07 INFO  Shut down connection with build server.[0m
+[0m2021.04.26 14:34:07 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.04.26 14:34:07 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher8424760511380018062/bsp.socket'...
+Waiting for the bsp connection to come up...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher8424760511380018062/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher8424760511380018062/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 14:34:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:34:07 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher1348401668093616852/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher1348401668093616852/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher1348401668093616852/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 14:34:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:34:07 INFO  time: Connected to build server in 0.3s[0m
+[0m2021.04.26 14:34:07 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.04.26 14:34:07 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.04.26 14:34:07 INFO  time: indexed workspace in 0.66s[0m
+[0m2021.04.26 14:34:08 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Gold.scala[0m
+Apr 26, 2021 2:34:09 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: file%3A%2F%2F%2Fhome%2Fsadcat%2Fmyfolder%2FRevature_Project_0%2Fbuild.sbt:10: error: ; expected but , found
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.19", 
+                                                                  ^
+file%3A%2F%2F%2Fhome%2Fsadcat%2Fmyfolder%2FRevature_Project_0%2Fbuild.sbt:10: error: ; expected but , found
+libraryDependencies += "org.postgresql" % "postgresql" % "42.2.19", 
+                                                                  ^
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:16)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.Reporter.syntaxError(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter.syntaxError$(Reporter.scala:17)
+	at scala.meta.internal.parsers.Reporter$$anon$1.syntaxError(Reporter.scala:22)
+	at scala.meta.internal.parsers.ScalametaParser.syntaxErrorExpected(ScalametaParser.scala:855)
+	at scala.meta.internal.parsers.ScalametaParser.accept(ScalametaParser.scala:861)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSep(ScalametaParser.scala:870)
+	at scala.meta.internal.parsers.ScalametaParser.acceptStatSepOpt(ScalametaParser.scala:874)
+	at scala.meta.internal.parsers.ScalametaParser.statSeq(ScalametaParser.scala:4836)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$scriptSource$1(ScalametaParser.scala:5015)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.scriptSource(ScalametaParser.scala:5014)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$source$1(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.atPos(ScalametaParser.scala:820)
+	at scala.meta.internal.parsers.ScalametaParser.autoPos(ScalametaParser.scala:836)
+	at scala.meta.internal.parsers.ScalametaParser.source(ScalametaParser.scala:5004)
+	at scala.meta.internal.parsers.ScalametaParser.entrypointSource(ScalametaParser.scala:5010)
+	at scala.meta.internal.parsers.ScalametaParser.$anonfun$parseSource$2(ScalametaParser.scala:142)
+	at scala.meta.internal.parsers.ScalametaParser.parseRule(ScalametaParser.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.parseSource(ScalametaParser.scala:142)
+	at scala.meta.parsers.Parse$.$anonfun$parseSource$1(Parse.scala:29)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$257.apply(ScalametaParser.scala:5067)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
+
+[0m2021.04.26 14:34:15 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals5575671134184964774/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.04.26 14:34:16 INFO  [info] welcome to sbt 1.4.9 (Private Build Java 1.8.0_282)[0m
+[0m2021.04.26 14:34:18 INFO  [info] loading settings for project revature_project_0-build-build from metals.sbt ...[0m
+[0m2021.04.26 14:34:19 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project/project[0m
+[0m2021.04.26 14:34:20 INFO  [info] loading settings for project revature_project_0-build from metals.sbt ...[0m
+[0m2021.04.26 14:34:20 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project[0m
+[0m2021.04.26 14:34:24 INFO  [success] Generated .bloop/revature_project_0-build.json[0m
+[0m2021.04.26 14:34:24 INFO  [success] Total time: 4 s, completed Apr 26, 2021 2:34:24 PM[0m
+[0m2021.04.26 14:34:27 INFO  [info] loading settings for project revature_project_0 from build.sbt ...[0m
+[0m2021.04.26 14:34:27 INFO  [info] set current project to revature_project_0 (in build file:/home/sadcat/myfolder/Revature_Project_0/)[0m
+[0m2021.04.26 14:34:29 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.04.26 14:34:29 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.04.26 14:34:29 INFO  [success] Generated .bloop/revature_project_0.json[0m
+[0m2021.04.26 14:34:29 INFO  [success] Generated .bloop/revature_project_0-test.json[0m
+[0m2021.04.26 14:34:29 INFO  [success] Total time: 1 s, completed Apr 26, 2021 2:34:29 PM[0m
+[0m2021.04.26 14:34:30 INFO  sbt bloopInstall exit: 0[0m
+[0m2021.04.26 14:34:30 INFO  time: ran 'sbt bloopInstall' in 15s[0m
+[0m2021.04.26 14:34:30 INFO  Disconnecting from Bloop session...[0m
+[0m2021.04.26 14:34:30 INFO  Shut down connection with build server.[0m
+[0m2021.04.26 14:34:30 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.04.26 14:34:30 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher3661024558662104917/bsp.socket'...
+[0m2021.04.26 14:34:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:34:30 INFO  Attempting to connect to the build server...[0m
+[0m2021.04.26 14:34:30 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:34:30 INFO  time: Connected to build server in 0.15s[0m
+[0m2021.04.26 14:34:30 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.04.26 14:34:31 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.04.26 14:34:31 INFO  time: indexed workspace in 0.69s[0m
+[0m2021.04.26 14:34:31 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/PlayerValues/Gold.scala[0m
+[0m2021.04.26 14:35:04 INFO  compiling revature_project_0 (12 scala sources)[0m
+[0m2021.04.26 14:35:08 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.04.26 14:35:08 INFO  time: compiled revature_project_0 in 4.03s[0m
+[0m2021.04.26 14:35:17 INFO  no build target: using presentation compiler with only scala-library: 2.13.3[0m
+[0m2021.04.26 14:35:23 INFO  skipping build import with status 'Installed'[0m
+[0m2021.04.26 14:41:20 INFO  skipping build import with status 'Installed'[0m
+[0m2021.04.26 14:41:21 INFO  shutting down Metals[0m
+[0m2021.04.26 14:41:21 INFO  Shut down connection with build server.[0m
+[0m2021.04.26 14:41:20 INFO  Shut down connection with build server.[0m
+[0m2021.04.26 14:45:51 INFO  Started: Metals version 0.10.2 in workspace '/home/sadcat/myfolder/Revature_Project_0' for client vscode 1.55.2.[0m
+[0m2021.04.26 14:45:51 INFO  time: initialize in 0.47s[0m
+[0m2021.04.26 14:45:52 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher7790413968213927050/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.04.26 14:45:51 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/build.sbt[0m
+[0m2021.04.26 14:45:51 INFO  skipping build import with status 'Installed'[0m
+Waiting for the bsp connection to come up...
+[0m2021.04.26 14:45:54 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.8-19-4d9f966b...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/home/sadcat/myfolder/Revature_Project_0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0.json'
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.3.
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'revature_project_0-test', 'revature_project_0'
+[0m[32m[D][0m Missing analysis file for project 'revature_project_0-test'
+[0m[32m[D][0m Loading previous analysis for 'revature_project_0' from '/home/sadcat/myfolder/Revature_Project_0/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher7790413968213927050/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher7790413968213927050/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 14:45:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:45:56 INFO  time: code lens generation in 4.04s[0m
+[0m2021.04.26 14:45:56 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher3685585775113668333/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher3685585775113668333/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher3685585775113668333/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 14:45:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 14:45:56 INFO  time: Connected to build server in 4.42s[0m
+[0m2021.04.26 14:45:56 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.04.26 14:45:57 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.04.26 14:45:57 INFO  time: indexed workspace in 1.61s[0m
+[0m2021.04.26 14:46:03 INFO  time: code lens generation in 1.86s[0m
+Apr 26, 2021 2:47:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+[0m2021.04.26 14:47:12 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 14:47:16 INFO  time: compiled revature_project_0 in 4.26s[0m
+[0m2021.04.26 14:47:32 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 14:47:33 INFO  time: compiled revature_project_0 in 1.03s[0m
+[0m2021.04.26 15:42:51 INFO  shutting down Metals[0m
+[0m2021.04.26 15:42:51 INFO  Shut down connection with build server.[0m
+[0m2021.04.26 15:42:51 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.04.26 16:13:37 INFO  Started: Metals version 0.10.2 in workspace '/home/sadcat/myfolder/Revature_Project_0' for client vscode 1.55.2.[0m
+[0m2021.04.26 16:13:37 INFO  time: initialize in 0.44s[0m
+[0m2021.04.26 16:13:38 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4769423784059316584/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m2021.04.26 16:13:37 WARN  no build target for: /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala[0m
+[0m2021.04.26 16:13:37 INFO  skipping build import with status 'Installed'[0m
+Waiting for the bsp connection to come up...
+[0m2021.04.26 16:13:40 INFO  no build target: using presentation compiler with only scala-library: 2.12.13[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m2021.04.26 16:13:41 INFO  time: code lens generation in 3.64s[0m
+No server running at 127.0.0.1:8212, let's fire one...
+Resolving ch.epfl.scala:bloop-frontend_2.12:1.4.8-19-4d9f966b...
+Starting bloop server at 127.0.0.1:8212...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+Attempting a connection to the server...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/home/sadcat/myfolder/Revature_Project_0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0-test.json'
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.3.
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar
+[0m[32m[D][0m   => /home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar
+[0m[32m[D][0m Configured SemanticDB in projects 'revature_project_0', 'revature_project_0-test'
+[0m[32m[D][0m Missing analysis file for project 'revature_project_0-test'
+[0m[32m[D][0m Loading previous analysis for 'revature_project_0' from '/home/sadcat/myfolder/Revature_Project_0/target/streams/compile/bloopAnalysisOut/_global/streams/inc_compile_2.13.zip'.
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4769423784059316584/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4769423784059316584/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 16:13:41 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 16:13:41 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher1533629256637778241/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher1533629256637778241/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher1533629256637778241/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.26 16:13:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.26 16:13:42 INFO  time: Connected to build server in 4.22s[0m
+[0m2021.04.26 16:13:42 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.04.26 16:13:42 INFO  time: Imported build in 0.1s[0m
+[0m2021.04.26 16:13:44 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.04.26 16:13:44 INFO  time: indexed workspace in 1.85s[0m
+Apr 26, 2021 4:15:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+[0m2021.04.26 16:15:14 INFO  time: code lens generation in 3.38s[0m
+[0m2021.04.26 16:15:14 INFO  time: code lens generation in 2.97s[0m
+Apr 26, 2021 4:15:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+Apr 26, 2021 4:17:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+[0m2021.04.26 16:18:03 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:18:05 INFO  time: compiled revature_project_0 in 1.99s[0m
+[0m2021.04.26 16:18:18 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:18:20 INFO  time: compiled revature_project_0 in 2.04s[0m
+Apr 26, 2021 4:24:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 109
+something's wrong: no file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala in Array[String]RangePosition(file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala, 104, 104, 117)
+something's wrong: no file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala in Array[String]RangePosition(file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala, 104, 104, 117)
+something's wrong: no file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala in Array[String]RangePosition(file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala, 104, 104, 117)
+something's wrong: no file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala in Array[String]RangePosition(file:///home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Utility/PostgreSQLUtil.scala, 114, 114, 127)
+[0m2021.04.26 16:41:48 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:41:49 INFO  time: compiled revature_project_0 in 1.19s[0m
+[0m2021.04.26 16:42:44 INFO  compiling revature_project_0 (1 scala source)[0m
+Apr 26, 2021 4:42:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 426
+[0m2021.04.26 16:42:44 INFO  time: compiled revature_project_0 in 0.68s[0m
+[0m2021.04.26 16:43:03 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:43:03 INFO  time: compiled revature_project_0 in 94ms[0m
+[0m2021.04.26 16:43:20 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:43:20 INFO  time: compiled revature_project_0 in 0.11s[0m
+Apr 26, 2021 4:43:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 472
+Apr 26, 2021 4:43:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 479
+Apr 26, 2021 4:43:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+Apr 26, 2021 4:43:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 489
+[0m2021.04.26 16:43:37 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:43:37 INFO  time: compiled revature_project_0 in 0.75s[0m
+Apr 26, 2021 4:46:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 575
+Apr 26, 2021 4:48:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 580
+[0m2021.04.26 16:48:45 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:48:45 INFO  time: compiled revature_project_0 in 0.12s[0m
+Apr 26, 2021 4:48:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 591
+Apr 26, 2021 4:49:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 596
+[0m2021.04.26 16:49:10 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:49:10 INFO  time: compiled revature_project_0 in 0.7s[0m
+Apr 26, 2021 4:50:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 695
+Apr 26, 2021 4:50:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 701
+[0m2021.04.26 16:50:44 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:50:44 INFO  time: compiled revature_project_0 in 0.47s[0m
+Apr 26, 2021 4:50:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 837
+[0m2021.04.26 16:51:05 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:51:05 INFO  time: compiled revature_project_0 in 0.17s[0m
+Apr 26, 2021 4:51:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 860
+Apr 26, 2021 4:51:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869
+Apr 26, 2021 4:51:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 874
+Apr 26, 2021 4:51:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 884
+[0m2021.04.26 16:51:35 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:51:37 INFO  time: compiled revature_project_0 in 1.6s[0m
+Apr 26, 2021 4:52:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 962
+[0m2021.04.26 16:52:27 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:52:27 INFO  time: compiled revature_project_0 in 0.71s[0m
+Apr 26, 2021 4:52:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 989
+[0m2021.04.26 16:53:17 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.26 16:53:17 INFO  time: compiled revature_project_0 in 0.88s[0m
+Apr 26, 2021 4:53:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1018
