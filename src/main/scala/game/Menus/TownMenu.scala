@@ -55,9 +55,18 @@ class TownMenu extends Menu {
 
   }
   override def printWelcome(): Unit = {
+
+    val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
+    val currentstats = ujson.read(jsonString)
+    val healthvalue = currentstats("health")
+    val levelvalue = currentstats("level")
+
     println(" ")
     println("You're now in town.")
-    println(" ")
+    println("--------------------------------------------------------")
+    println(f"You currently have $healthvalue%s HP")
+    println(s"Your current level is: $levelvalue")
+    println("--------------------------------------------------------")
     println(" ")
   }
 
@@ -72,7 +81,7 @@ class TownMenu extends Menu {
 	"        *     1. Dungeon |   Go to fight monsters       *",
 	"        *     2. Shop    |   Go to buy or sell items    *",
 	"        *     3. Sleep   |   Rest up and save progress  *",
-    "        *     4. Exit    |   Exit the Game              *",
+  "        *     4. Exit    |   Exit the Game              *",
 	"        *                                               *",
 	"        *************************************************"
     ).foreach(println)

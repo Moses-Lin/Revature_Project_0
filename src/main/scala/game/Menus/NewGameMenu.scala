@@ -17,7 +17,8 @@ class NewGameMenu extends Menu {
     val playername = StdIn.readLine("What's your name adventurer?     ")
 
     val CurrentPlayerState = ujson.Obj("playername" -> playername,
-                                       "health" -> 0,
+                                       "maxhealth" -> 0,
+                                       "currenthealth" -> 0,
                                        "damage" -> 0,
                                        "speed" -> 0,
                                        "level" -> 0)
@@ -37,7 +38,8 @@ class NewGameMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Warrior" => {
           val CurrentPlayer = new Warrior
 
-          CurrentPlayerState("health") = CurrentPlayer.health
+          CurrentPlayerState("maxhealth") = CurrentPlayer.maxhealth
+          CurrentPlayerState("currenthealth") = CurrentPlayer.currenthealth
           CurrentPlayerState("damage") = CurrentPlayer.damage
           CurrentPlayerState("speed") = CurrentPlayer.speed
           CurrentPlayerState("level") = CurrentPlayer.level
@@ -60,6 +62,11 @@ class NewGameMenu extends Menu {
                         savefile.delete()
 
                         os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
+                        continueMenuLoop = false
+ 
+                        val TownMenu = new TownMenu
+                        TownMenu.menu()
                     }
                     case "N" => {
                         println("Understood, returning to title screen.")
@@ -81,7 +88,8 @@ class NewGameMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {
           val CurrentPlayer = new Rogue
 
-          CurrentPlayerState("health") = CurrentPlayer.health
+          CurrentPlayerState("maxhealth") = CurrentPlayer.maxhealth
+          CurrentPlayerState("currenthealth") = CurrentPlayer.currenthealth
           CurrentPlayerState("damage") = CurrentPlayer.damage
           CurrentPlayerState("speed") = CurrentPlayer.speed
           CurrentPlayerState("level") = CurrentPlayer.level
@@ -93,7 +101,6 @@ class NewGameMenu extends Menu {
  
           val TownMenu = new TownMenu
           TownMenu.menu()
-          continueMenuLoop = false
           } catch {
 
               case faee: FileAlreadyExistsException => {
@@ -105,6 +112,11 @@ class NewGameMenu extends Menu {
                         savefile.delete()
 
                         os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
+                        continueMenuLoop = false
+ 
+                        val TownMenu = new TownMenu
+                        TownMenu.menu()
                     }
                     case "N" => {
                         println("Understood, returning to title screen.")

@@ -57,8 +57,8 @@ class FightMenu extends Menu{
 	"        *         You're currently fighting             *",
 	"        *                                               *",
 	"        *     1. Test   |   FIGHT                       *",
-    "        *     2. Item   |   Use an item                 *",
-    "        *     3. Run    |   Exit the Game               *",
+  "        *     2. Item   |   Use an item                 *",
+  "        *     3. Run    |   Exit the Game               *",
 	"        *                                               *",
 	"        *************************************************"
     ).foreach(println)

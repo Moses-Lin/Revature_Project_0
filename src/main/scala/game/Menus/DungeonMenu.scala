@@ -90,10 +90,10 @@ class DungeonMenu extends Menu {
 	"        *      You're currently in a dungeon            *",
 	"        *                                               *",
 	"        *     1. Floor_1  |   Beginner enemies          *",
-    "        *     2. Floor_2  |   Intermediate enemies      *",
-    "        *     3. Floor_3  |   Advanced enemies          *",
-    "        *     4. Floor_4  |   ????                      *",
-    "        *     5. Exit     |   Head back to town         *",
+  "        *     2. Floor_2  |   Intermediate enemies      *",
+  "        *     3. Floor_3  |   Advanced enemies          *",
+  "        *     4. Floor_4  |   ????                      *",
+  "        *     5. Exit     |   Head back to town         *",
 	"        *                                               *",
 	"        *************************************************"
     ).foreach(println)

@@ -3,13 +3,14 @@ package game
 class Rogue {
 
     var classname = "rogue"
-    var health =  6
+    var maxhealth =  6
+    var currenthealth = 6
     var damage =  3
     var speed =  3
     var level =  1
 
     def getHealth {
-        println(health)
+        println(currenthealth)
     }
     def getDamage {
         println(damage)
@@ -21,9 +22,9 @@ class Rogue {
         println(level)
     }
     def takeDamage (enemydamage: Int): Unit = {
-        this.health - enemydamage
+        this.currenthealth - enemydamage
     }
     def heal (potionheal: Int): Unit = {
-        this.health + potionheal
+        this.currenthealth + potionheal
     }
 }
