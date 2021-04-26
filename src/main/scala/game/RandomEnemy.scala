@@ -1,9 +1,9 @@
 package game
 
 case class RandomEnemy(
-    name: String,
-    health: Int,
-    damage: Int,
-    speed: Int,
-    exp: Int
+    val name: String,
+    var health: Int,
+    val damage: Int,
+    val speed: Int,
+    val exp: Int
 )
