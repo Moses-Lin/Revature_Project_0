@@ -4,6 +4,9 @@ import scala.io.StdIn
 import scala.util.matching.Regex
 import scala.collection.mutable.Map
 import scala.annotation.varargs
+import java.nio.file.FileAlreadyExistsException
+import better.files._
+
 
 class NewGameMenu extends Menu {
   
@@ -13,7 +16,11 @@ class NewGameMenu extends Menu {
 
     val playername = StdIn.readLine("What's your name adventurer?     ")
 
-    val CurrentPlayerState = ujson.Obj("playername" -> playername, "health" -> 0, "damage" -> 0, "speed" -> 0, "level" -> 0)
+    val CurrentPlayerState = ujson.Obj("playername" -> playername,
+                                       "health" -> 0,
+                                       "damage" -> 0,
+                                       "speed" -> 0,
+                                       "level" -> 0)
 
     println(" ")
     println(s"Ah, it's nice to meet you $playername.")
@@ -35,8 +42,27 @@ class NewGameMenu extends Menu {
           CurrentPlayerState("speed") = CurrentPlayer.speed
           CurrentPlayerState("level") = CurrentPlayer.level
 
+          try {
           os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+          } catch {
 
+              case faee: FileAlreadyExistsException => {
+                  
+                val understand = StdIn.readLine("It seems you already have a save file, would you like to overwrite it?    Y/N?   ")
+                understand match {
+                    case "Y" => {
+                        val savefile = file"CurrentPlayerState.json"
+                        savefile.delete()
+
+                        os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+                    }
+                    case "N" => {
+                        println("Understood, exiting the game.")
+                        System.exit(0)
+                    }
+                }
+              }
+          }
           continueMenuLoop = false
 
           val TownMenu = new TownMenu
@@ -46,6 +72,14 @@ class NewGameMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {
           val CurrentPlayer = new Rogue
 
+          CurrentPlayerState("health") = CurrentPlayer.health
+          CurrentPlayerState("damage") = CurrentPlayer.damage
+          CurrentPlayerState("speed") = CurrentPlayer.speed
+          CurrentPlayerState("level") = CurrentPlayer.level
+
+          os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
+          continueMenuLoop = false
 
           val TownMenu = new TownMenu
           TownMenu.menu()

@@ -9680,3 +9680,206 @@ WARNING: Unmatched cancel notification for request id 22355
 [0m2021.04.25 19:10:00 INFO  time: compiled revature_project_0 in 1.6s[0m
 [0m2021.04.25 19:10:25 INFO  compiling revature_project_0 (1 scala source)[0m
 [0m2021.04.25 19:10:27 INFO  time: compiled revature_project_0 in 1.52s[0m
+Apr 25, 2021 7:12:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23050
+Apr 25, 2021 7:12:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23056
+Apr 25, 2021 7:12:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23062
+Apr 25, 2021 7:12:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23076
+Apr 25, 2021 7:12:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23092
+Apr 25, 2021 7:13:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23098
+[0m2021.04.25 19:14:15 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:14:17 INFO  time: compiled revature_project_0 in 1.51s[0m
+Apr 25, 2021 7:16:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23180
+Apr 25, 2021 7:17:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23185
+Apr 25, 2021 7:17:00 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23191
+Apr 25, 2021 7:17:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23196
+[0m2021.04.25 19:17:58 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:17:59 INFO  time: compiled revature_project_0 in 1.25s[0m
+Apr 25, 2021 7:18:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23360
+Apr 25, 2021 7:18:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23366
+Apr 25, 2021 7:18:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23375
+Apr 25, 2021 7:19:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23392
+Apr 25, 2021 7:19:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23398
+Apr 25, 2021 7:19:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23407
+Apr 25, 2021 7:19:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23413
+Apr 25, 2021 7:19:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23473
+Apr 25, 2021 7:19:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23478
+Apr 25, 2021 7:19:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23484
+Apr 25, 2021 7:19:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23490
+Apr 25, 2021 7:20:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23517
+Apr 25, 2021 7:20:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23523
+Apr 25, 2021 7:20:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23559
+Apr 25, 2021 7:20:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23565
+Apr 25, 2021 7:20:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23605
+Apr 25, 2021 7:20:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23611
+Apr 25, 2021 7:20:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23629
+Apr 25, 2021 7:20:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23635
+[0m2021.04.25 19:21:25 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:21:27 INFO  time: compiled revature_project_0 in 1.36s[0m
+Apr 25, 2021 7:23:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23866
+Apr 25, 2021 7:23:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23881
+Apr 25, 2021 7:23:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23887
+Apr 25, 2021 7:24:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23929
+Apr 25, 2021 7:24:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23935
+Apr 25, 2021 7:24:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23941
+Apr 25, 2021 7:24:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24018
+Apr 25, 2021 7:24:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24024
+Apr 25, 2021 7:24:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24029
+Apr 25, 2021 7:24:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24035
+Apr 25, 2021 7:24:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24040
+Apr 25, 2021 7:26:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24059
+Apr 25, 2021 7:26:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24068
+Apr 25, 2021 7:26:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24074
+Apr 25, 2021 7:26:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24080
+Apr 25, 2021 7:27:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24159
+Apr 25, 2021 7:27:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24166
+Apr 25, 2021 7:27:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24172
+Apr 25, 2021 7:27:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24181
+Apr 25, 2021 7:27:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24188
+Apr 25, 2021 7:31:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24533
+[0m2021.04.25 19:32:11 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:32:13 INFO  time: compiled revature_project_0 in 1.95s[0m
+[0m2021.04.25 19:33:02 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:33:03 INFO  time: compiled revature_project_0 in 1s[0m
+[0m2021.04.25 19:33:05 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:33:06 INFO  time: compiled revature_project_0 in 1.76s[0m
+[0m2021.04.25 19:33:26 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:33:28 INFO  time: compiled revature_project_0 in 1.8s[0m
+Apr 25, 2021 7:33:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24739
+Apr 25, 2021 7:34:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24746
+Apr 25, 2021 7:41:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24783
+Apr 25, 2021 7:45:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24800
+[0m2021.04.25 19:45:31 INFO  running '/usr/lib/jvm/java-8-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals2597477708229983143/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.04.25 19:45:34 INFO  [info] welcome to sbt 1.4.9 (Private Build Java 1.8.0_282)[0m
+Apr 25, 2021 7:45:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24808
+[0m2021.04.25 19:45:36 INFO  [info] loading settings for project revature_project_0-build-build from metals.sbt ...[0m
+[0m2021.04.25 19:45:38 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project/project[0m
+[0m2021.04.25 19:45:39 INFO  [info] loading settings for project revature_project_0-build from metals.sbt ...[0m
+[0m2021.04.25 19:45:39 INFO  [info] loading project definition from /home/sadcat/myfolder/Revature_Project_0/project[0m
+[0m2021.04.25 19:45:44 INFO  [success] Generated .bloop/revature_project_0-build.json[0m
+[0m2021.04.25 19:45:44 INFO  [success] Total time: 4 s, completed Apr 25, 2021 7:45:44 PM[0m
+[0m2021.04.25 19:45:48 INFO  [info] loading settings for project revature_project_0 from build.sbt ...[0m
+[0m2021.04.25 19:45:48 INFO  [info] set current project to revature_project_0 (in build file:/home/sadcat/myfolder/Revature_Project_0/)[0m
+[0m2021.04.25 19:45:49 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.04.25 19:45:49 INFO  [warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.[0m
+[0m2021.04.25 19:45:49 INFO  [success] Generated .bloop/revature_project_0-test.json[0m
+[0m2021.04.25 19:45:49 INFO  [success] Generated .bloop/revature_project_0.json[0m
+[0m2021.04.25 19:45:49 INFO  [success] Total time: 1 s, completed Apr 25, 2021 7:45:49 PM[0m
+[0m2021.04.25 19:45:49 INFO  sbt bloopInstall exit: 0[0m
+[0m2021.04.25 19:45:50 INFO  time: ran 'sbt bloopInstall' in 18s[0m
+[0m2021.04.25 19:45:50 INFO  Disconnecting from Bloop session...[0m
+[0m2021.04.25 19:45:50 INFO  Shut down connection with build server.[0m
+[0m2021.04.25 19:45:50 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+[0m2021.04.25 19:45:50 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher8321498018203146665/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from '/home/sadcat/myfolder/Revature_Project_0/.bloop'...
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0.json'
+[0m[32m[D][0m Loading project from '/home/sadcat/myfolder/Revature_Project_0/.bloop/revature_project_0-test.json'
+[0m[32m[D][0m Configured SemanticDB in projects 'revature_project_0', 'revature_project_0-test'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher8321498018203146665/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher8321498018203146665/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.25 19:45:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.25 19:45:50 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4215119734486188927/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4215119734486188927/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4215119734486188927/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.04.25 19:45:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/sadcat/.cache/metals/bsp.trace.json[0m
+[0m2021.04.25 19:45:50 INFO  time: Connected to build server in 0.17s[0m
+[0m2021.04.25 19:45:50 INFO  Connected to Build server: Bloop v1.4.8-19-4d9f966b[0m
+[0m2021.04.25 19:45:50 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.04.25 19:45:50 INFO  time: indexed workspace in 0.67s[0m
+[0m2021.04.25 19:45:51 INFO  compiling revature_project_0 (11 scala sources)[0m
+[0m2021.04.25 19:45:54 INFO  compiling revature_project_0 (11 scala sources)[0m
+[0m2021.04.25 19:45:54 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+[0m2021.04.25 19:45:54 INFO  time: compiled revature_project_0 in 0.69s[0m
+[0m2021.04.25 19:45:55 WARN  8 deprecations (since 2.13.0); re-run with -deprecation for details[0m
+Apr 25, 2021 7:49:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24971
+Apr 25, 2021 7:49:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24970
+Apr 25, 2021 7:49:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 24972
+[0m2021.04.25 19:49:47 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:49:49 INFO  time: compiled revature_project_0 in 1.75s[0m
+[0m2021.04.25 19:50:38 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:50:47 INFO  time: compiled revature_project_0 in 8.34s[0m
+Apr 25, 2021 7:51:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25003
+[0m2021.04.25 19:51:42 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:51:44 INFO  time: compiled revature_project_0 in 1.98s[0m
+[0m2021.04.25 19:55:10 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:55:12 INFO  time: compiled revature_project_0 in 1.63s[0m
+[0m2021.04.25 19:59:28 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 19:59:29 INFO  time: compiled revature_project_0 in 1.49s[0m
+[0m2021.04.25 20:00:43 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.25 20:00:44 INFO  time: compiled revature_project_0 in 1.33s[0m
