@@ -51,11 +51,6 @@ class StartMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
         }
-
-        case commandArgPattern(cmd, arg) if cmd == "Test" => {
-          val Warrior = new Warrior
-          println(Warrior.health)
-        }
         case commandArgPattern(cmd, arg) => {
           println(" ")
           println(

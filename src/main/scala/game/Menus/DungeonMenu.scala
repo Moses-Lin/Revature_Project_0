@@ -7,6 +7,8 @@ import scala.collection.mutable.Map
 class DungeonMenu extends Menu {
 
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
+  val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
+  val currentstats = ujson.read(jsonString)
 
   override def menu(): Unit = {
 
@@ -74,10 +76,16 @@ class DungeonMenu extends Menu {
 
   }
   override def printWelcome(): Unit = {
+
+    val healthvalue = currentstats("currenthealth")
+    val levelvalue = currentstats("level")
+
     println(" ")
-    println("You're now at a dungeon")
-    println(" ")
-    println("What should I do now?")
+    println("You're now in a Dungeon.")
+    println("--------------------------------------------------------")
+    println(f"You currently have $healthvalue%s HP")
+    println(s"Your current level is: $levelvalue")
+    println("--------------------------------------------------------")
     println(" ")
   }
 

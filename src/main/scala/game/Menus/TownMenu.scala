@@ -58,7 +58,7 @@ class TownMenu extends Menu {
 
     val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
     val currentstats = ujson.read(jsonString)
-    val healthvalue = currentstats("health")
+    val healthvalue = currentstats("currenthealth")
     val levelvalue = currentstats("level")
 
     println(" ")
