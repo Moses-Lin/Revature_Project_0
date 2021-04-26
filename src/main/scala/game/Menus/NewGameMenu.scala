@@ -44,6 +44,11 @@ class NewGameMenu extends Menu {
 
           try {
           os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+
+          continueMenuLoop = false
+
+          val TownMenu = new TownMenu
+          TownMenu.menu()
           } catch {
 
               case faee: FileAlreadyExistsException => {
@@ -57,16 +62,20 @@ class NewGameMenu extends Menu {
                         os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
                     }
                     case "N" => {
-                        println("Understood, exiting the game.")
-                        System.exit(0)
+                        println("Understood, returning to title screen.")
+                        continueMenuLoop = false
+                        val startmenu = new StartMenu
+                        startmenu.menu()
+                    }
+                    case _ => {
+                        println("Please enter either Y or N, returning to title screen")
+                        continueMenuLoop = false
+                        val startmenu = new StartMenu
+                        startmenu.menu()
                     }
                 }
               }
           }
-          continueMenuLoop = false
-
-          val TownMenu = new TownMenu
-          TownMenu.menu()
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Rogue" => {
@@ -77,13 +86,41 @@ class NewGameMenu extends Menu {
           CurrentPlayerState("speed") = CurrentPlayer.speed
           CurrentPlayerState("level") = CurrentPlayer.level
 
+          try {
           os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
 
           continueMenuLoop = false
-
+ 
           val TownMenu = new TownMenu
           TownMenu.menu()
           continueMenuLoop = false
+          } catch {
+
+              case faee: FileAlreadyExistsException => {
+                  
+                val understand = StdIn.readLine("It seems you already have a save file, would you like to overwrite it?    Y/N?   ")
+                understand match {
+                    case "Y" => {
+                        val savefile = file"CurrentPlayerState.json"
+                        savefile.delete()
+
+                        os.write(os.pwd/"CurrentPlayerState.json", CurrentPlayerState)
+                    }
+                    case "N" => {
+                        println("Understood, returning to title screen.")
+                        continueMenuLoop = false
+                        val startmenu = new StartMenu
+                        startmenu.menu()
+                    }
+                    case _ => {
+                        println("Please enter either Y or N, returning to title screen")
+                        continueMenuLoop = false
+                        val startmenu = new StartMenu
+                        startmenu.menu()
+                    }
+                }
+              }
+          }
         }
         case commandArgPattern(cmd, arg) => {
           println(" ")
