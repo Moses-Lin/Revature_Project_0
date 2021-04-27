@@ -10,6 +10,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/FightMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/DAO.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/DAO.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	game/Time.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Time.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Main.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Gold.class[0m
@@ -24,6 +26,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/RandomEnemy.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Main$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	game/Time$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Time$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/StartMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/StartMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/DungeonMenu.class[0m

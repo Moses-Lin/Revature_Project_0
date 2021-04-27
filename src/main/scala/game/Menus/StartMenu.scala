@@ -5,6 +5,7 @@ import scala.util.matching.Regex
 import scala.collection.mutable.Map
 import java.io.FileNotFoundException
 import java.nio.file.NoSuchFileException
+import java.util.UUID
 
 class StartMenu extends Menu {
 
@@ -53,8 +54,9 @@ class StartMenu extends Menu {
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Debug" => {
-          val test = DAO.SaveState("Gagging", 10, 10, 2, 2, 1)
-          test
+          val drool = Time.timestamp()
+          drool
+
         }
         case commandArgPattern(cmd, arg) => {
           println(" ")
