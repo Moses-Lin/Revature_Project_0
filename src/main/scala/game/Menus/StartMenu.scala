@@ -5,7 +5,6 @@ import scala.util.matching.Regex
 import scala.collection.mutable.Map
 import java.io.FileNotFoundException
 import java.nio.file.NoSuchFileException
-import java.util.UUID
 
 class StartMenu extends Menu {
 
@@ -33,21 +32,7 @@ class StartMenu extends Menu {
         }
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           continueMenuLoop = false
-          try {
-          DAO.LoadState()
-          } catch {
-            
-            case nsfe: NoSuchFileException => {
-
-              println(" ")
-              println("There are no save files yet!")
-              println("Sending you back to the title screen")
-              println(" ")
-
-              val StartMenu = new StartMenu
-              StartMenu.menu()
-            }
-          }
+         
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false

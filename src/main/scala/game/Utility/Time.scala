@@ -10,6 +10,5 @@ object Time {
     val currenthour = now.get(Calendar.HOUR)
     val currentminute = now.get(Calendar.MINUTE)
     val currentime = (currentmonth + "/" + currentday + " " + currenthour + ":" + currentminute)
-    println(currentime)
     }
 }

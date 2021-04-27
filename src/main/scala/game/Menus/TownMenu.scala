@@ -8,6 +8,13 @@ import scala.annotation.varargs
 
 class TownMenu extends Menu {
 
+  var player = new Player
+  player.LoadState()
+
+  var pcurrenthealth = player.pcurrenthealth
+  var pmaxhealth = player.pmaxhealth
+  var plevel = player.plevel
+
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
   override def menu(): Unit = {
@@ -58,14 +65,11 @@ class TownMenu extends Menu {
   }
   override def printWelcome(): Unit = {
 
-    var pcurrenthealth = Main.pcurrenthealth
-    var plevel = Main.plevel
-
     println(" ")
     println("You're now in town.")
     println("--------------------------------------------------------")
-    println(f"You currently have $pcurrenthealth")
-    println(s"Your current level is: $plevel")
+    println(f"You currently have $pcurrenthealth%s HP out of $pmaxhealth%s HP remaining.")
+    println(s"You are currently level $plevel")
     println("--------------------------------------------------------")
     println(" ")
   }

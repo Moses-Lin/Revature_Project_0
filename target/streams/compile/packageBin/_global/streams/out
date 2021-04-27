@@ -2,14 +2,10 @@
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game[0m
-[0m[[0m[0mdebug[0m] [0m[0m	game/Rogue.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Rogue.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/ShopMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/ShopMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/FightMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/FightMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	game/DAO.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/DAO.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Time.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Time.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Main.class[0m
@@ -34,12 +30,10 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/DungeonMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/RandomEnemy$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/RandomEnemy$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	game/Warrior.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Warrior.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/NewGameMenu.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/NewGameMenu.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	game/DAO$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/DAO$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	game/Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Player.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/Experience.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes/game/Experience.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	game/com[0m

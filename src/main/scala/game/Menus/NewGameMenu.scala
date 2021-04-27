@@ -12,7 +12,6 @@ class NewGameMenu extends Menu {
   override def menu(): Unit = {
 
     val uuid = UUID.randomUUID().toString().replace("-", "")
-    val timestamp = Time.timestamp().toString()
 
     val playername = StdIn.readLine("What's your name adventurer?     ")
 
@@ -22,7 +21,8 @@ class NewGameMenu extends Menu {
     println("Let us begin.")
     println(" ")
 
-    DAO.SaveState(playername, 10, 10, 2, 2, 1, uuid, timestamp)
+    val newGame = new Player
+    newGame.SaveState(playername, 10, 10, 2, 2, 1, uuid)
 
     val TownMenu = new TownMenu
     TownMenu.menu()
