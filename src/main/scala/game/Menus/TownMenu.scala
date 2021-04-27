@@ -1,8 +1,10 @@
 package game
 
+import game.Main
 import scala.io.StdIn
 import scala.util.matching.Regex
 import scala.collection.mutable.Map
+import scala.annotation.varargs
 
 class TownMenu extends Menu {
 
@@ -56,16 +58,14 @@ class TownMenu extends Menu {
   }
   override def printWelcome(): Unit = {
 
-    val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
-    val currentstats = ujson.read(jsonString)
-    val healthvalue = currentstats("currenthealth")
-    val levelvalue = currentstats("level")
+    var pcurrenthealth = Main.pcurrenthealth
+    var plevel = Main.plevel
 
     println(" ")
     println("You're now in town.")
     println("--------------------------------------------------------")
-    println(f"You currently have $healthvalue%s HP")
-    println(s"Your current level is: $levelvalue")
+    println(f"You currently have $pcurrenthealth")
+    println(s"Your current level is: $plevel")
     println("--------------------------------------------------------")
     println(" ")
   }

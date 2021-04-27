@@ -34,7 +34,7 @@ class StartMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
           continueMenuLoop = false
           try {
-          val jsonString = os.read(os.pwd/"CurrentPlayerState.json")
+          DAO.LoadState()
           } catch {
             
             case nsfe: NoSuchFileException => {
@@ -54,8 +54,6 @@ class StartMenu extends Menu {
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Debug" => {
-          val drool = Time.timestamp()
-          drool
 
         }
         case commandArgPattern(cmd, arg) => {
