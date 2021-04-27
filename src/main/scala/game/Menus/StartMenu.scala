@@ -53,7 +53,7 @@ class StartMenu extends Menu {
         }
 
         case commandArgPattern(cmd, arg) if cmd == "Debug" => {
-          val test = DAO.viewAll()
+          val test = DAO.SaveState("Gagging", 10, 10, 2, 2, 1)
           test
         }
         case commandArgPattern(cmd, arg) => {

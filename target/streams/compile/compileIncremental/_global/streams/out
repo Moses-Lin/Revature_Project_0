@@ -1,7 +1,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 18 products, 14 sources, 6 libraries[0m
-[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/game/Menus/Menu.scala, ${BASE}/src/main/scala/game/RandomEnemy.scala, ${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Utility/PostgreSQLUtil.scala, ${BASE}/src/main/scala/game/PlayerClass/Rogue.scala, ${BASE}/src/main/scala/game/Main.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala, ${BASE}/src/main/scala/game/FileCheck.scala, ${BASE}/src/main/scala/game/Utility/DAO.scala, ${BASE}/src/main/scala/game/Menus/ShopMenu.scala, ${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Menus/StartMenu.scala, ${BASE}/src/main/scala/game/PlayerClass/Warrior.scala, ${BASE}/src/main/scala/game/Menus/FightMenu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 20 products, 16 sources, 6 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/game/Menus/Menu.scala, ${BASE}/src/main/scala/game/RandomEnemy.scala, ${BASE}/src/main/scala/game/PlayerValues/Experience.scala, ${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Utility/PostgreSQLUtil.scala, ${BASE}/src/main/scala/game/PlayerClass/Rogue.scala, ${BASE}/src/main/scala/game/Main.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala, ${BASE}/src/main/scala/game/FileCheck.scala, ${BASE}/src/main/scala/game/Utility/DAO.scala, ${BASE}/src/main/scala/game/Menus/ShopMenu.scala, ${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Menus/StartMenu.scala, ${BASE}/src/main/scala/game/PlayerClass/Warrior.scala, ${BASE}/src/main/scala/game/Menus/FightMenu.scala, ${BASE}/src/main/scala/game/PlayerValues/Gold.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/game/Utility/DAO.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
@@ -22,7 +22,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
 [0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.4.4:compile for Scala 2.13.3[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 1534a3f2 for Scala compiler version 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 47892e1b for Scala compiler version 2.13.3[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
@@ -34,5 +34,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.2608137 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.3062712 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
