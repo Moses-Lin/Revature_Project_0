@@ -39,14 +39,13 @@ object DAO {
 
     conn.close()
    } else {
-      val insertstmt2 = conn.prepareStatement("UPDATE currentplayerstate " +
-                                              s"SET pname = $pname, " +
-                                              s"pmaxhealth = $pmaxhealth, " +
-                                              s"pcurrenthealth = $pcurrenthealth, " +
-                                              s"pdamage = $pdamage, " +
-                                              s"pspeed = $pspeed, " +
-                                              s"plevel = $plevel, "
-      )
+      val insertstmt2 = conn.prepareStatement("UPDATE currentplayerstate SET pmaxhealth = ?, pcurrenthealth = ?, pdamage =?, pspeed = ?, plevel = ? WHERE pname = ?")
+      insertstmt2.setInt(1, pmaxhealth)
+      insertstmt2.setInt(2, pcurrenthealth)
+      insertstmt2.setInt(3, pdamage)
+      insertstmt2.setInt(4, pspeed)
+      insertstmt2.setInt(5, plevel)
+      insertstmt2.setString(6, pname)      
       insertstmt2.execute()
 
     conn.close()     
