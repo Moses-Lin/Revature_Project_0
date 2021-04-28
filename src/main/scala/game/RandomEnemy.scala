@@ -13,17 +13,28 @@ class RandomEnemy {
     var egolddrop = 0
     var eexp = 0
 
-    def SaveEnemy() {
-      val conn = PostgreSQLUtil.getConnection()
+    def TakeDamage(damage: Int): Unit = {
 
-      val checkstmt = conn.prepareStatement("SELECT count(*) FROM enemy;")
-      checkstmt.execute()
-      val rs = checkstmt.getResultSet()
-      rs.next()
+        ehealth = ehealth - damage
 
-       if(rs.getInt(1) == 0) {
-  
-        }
     }
+    def LoadState(enemyname: String): Unit = {
+    val conn = PostgreSQLUtil.getConnection()
 
+    val loadstate = conn.prepareStatement("SELECT * FROM enemy WHERE name = ?")
+    loadstate.setString(1, enemyname)
+    loadstate.execute()
+    val loadstateres = loadstate.getResultSet()
+    loadstateres.next()
+
+    ename = loadstateres.getString(1)
+    ehealth = loadstateres.getInt(2)
+    edamage = loadstateres.getInt(3)
+    egolddrop = loadstateres.getInt(4)
+    eexp = loadstateres.getInt(5)
+
+    conn.close()
+
+    }
+  
 }

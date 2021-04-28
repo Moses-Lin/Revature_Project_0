@@ -75,7 +75,8 @@ class Player {
       gold = loadstateres.getInt(5)
       plevel = loadstateres.getInt(6)
       uniqueid = loadstateres.getString(7)
-
+      
+      conn.close()
       }
   
   def TakeDamage(damage: Int): Unit = {

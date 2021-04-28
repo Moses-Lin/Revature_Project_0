@@ -12,6 +12,8 @@ class ShopMenu extends Menu {
   
     val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
+    var r = scala.util.Random
+
     override def menu(): Unit = {
 
         var continueMenuLoop = true

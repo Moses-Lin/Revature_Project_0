@@ -7,11 +7,13 @@ object Main {
         val filecheck = new FileCheckEnemy
         filecheck.check()
 
-        val enemyToDatabase = new JsonToDatabase
-        enemyToDatabase.enemyToDatabase()
+        val toDatabase = new JsonToDatabase
+        toDatabase.enemyToDatabase()
 
         val filecheck2 = new FileCheckShop
         filecheck2.check()
+
+        toDatabase.shopToDatabase()
 
         val startmenu = new StartMenu
         startmenu.menu()

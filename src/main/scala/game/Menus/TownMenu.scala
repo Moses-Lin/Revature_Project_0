@@ -47,6 +47,8 @@ class TownMenu extends Menu {
           println("You recover all your HP")
           println(" ")
 
+          player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)
+
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
