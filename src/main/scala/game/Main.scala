@@ -7,6 +7,9 @@ object Main {
         val filecheck = new FileCheckEnemy
         filecheck.check()
 
+        val enemyToDatabase = new JsonToDatabase
+        enemyToDatabase.enemyToDatabase()
+
         val filecheck2 = new FileCheckShop
         filecheck2.check()
 

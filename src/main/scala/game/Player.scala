@@ -4,7 +4,6 @@ import scala.io.StdIn
 import java.sql.ResultSet
 import game.com.revature.dbcli.PostgreSQLUtil
 import scala.util.matching.Regex
-import upickle.default
 
 class Player {
 
