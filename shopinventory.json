@@ -1,31 +1,31 @@
 [
     {
         "itemname": "Potion",
-        "itemdescription": "Heals you for 10 HP.",
+        "itemdescription": "Heals you for 10 HP",
         "buyprice": 3,
         "buff": 10
     },
     {
         "itemname": "Enchanted Stone",
-        "itemdescription": "Increases damage permanently.",
+        "itemdescription": "Increases damage permanently",
         "buyprice": 10,
         "buff": 1    
     },
     {
         "itemname": "Strange Mushroom",
-        "itemdescription": "Increases Max HP permanently.",
+        "itemdescription": "Increases max HP permanently",
         "buyprice": 10,
         "buff": 1
     },
     {
         "itemname": "Bomb",
-        "itemdescription": "Deals 10 damage to enemy.",
-        "buyprice": 8,
+        "itemdescription": "Deals 10 damage to enemy",
+        "buyprice": 5,
         "buff": 10
     },
     {
         "itemname": "Protecting Stone",
-        "itemdescription": "Reduces enemy damage to 0 for one turn.",
+        "itemdescription": "Reduces enemy damage to 0 for one turn",
         "buyprice": 10,
         "buff": 100
     }

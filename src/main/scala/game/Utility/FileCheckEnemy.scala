@@ -3,7 +3,7 @@ package game
 import java.nio.file.NoSuchFileException
 import better.files._
 
-class FileCheck {
+class FileCheckEnemy {
 
     val MinimumFile = ujson.Arr(
         ujson.Obj("name" -> "Mouse",
