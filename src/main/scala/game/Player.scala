@@ -31,6 +31,7 @@ class Player {
       rs.next()
       rs2.next()
 
+      // If a save file for the player doesnt exist, one will be created through insertion
       if(rs.getInt(1) == 0) {
         val insertstmt = conn.prepareStatement("INSERT INTO currentplayerstate VALUES (?, ?, ?, ?, ?, ?, ?);")
         insertstmt.setString(1, pname)
@@ -43,6 +44,8 @@ class Player {
 
         insertstmt.execute()
         conn.close()
+
+      // if a save file for the player already exists, it will be updated/overwritten.
       } else {
 
           val insertstmt2 = conn.prepareStatement("UPDATE currentplayerstate SET pname = ?, pmaxhealth = ?, pcurrenthealth = ?, pdamage = ?, gold = ?, plevel = ?, uniqueid = ?;")

@@ -9,6 +9,7 @@ class FightMenu extends Menu{
 
   val commandArgPattern: Regex = "(\\w+)\\s*(.*)".r
 
+  // Random Number Generator to randomly select an enemy to fight from the database.
   val e = new scala.util.Random
   val randomEnemySelectValue = e.nextInt((4)) + 1
 
@@ -22,12 +23,14 @@ class FightMenu extends Menu{
   var enemyname = loadenemyres.getString(2)
   conn.close()
 
+  // Random enemy is now generated using a load state method that requires a name as input.
   var randomenemy = new RandomEnemy
   randomenemy.LoadState(enemyname)
   var randomEnemyName = randomenemy.ename
   var randomEnemyHP = randomenemy.ehealth
   var randomEnemyDamage = randomenemy.edamage
 
+  // Player is constructed here.
   var player = new Player
   player.LoadState()
   var playerdamage = player.pdamage
@@ -35,6 +38,7 @@ class FightMenu extends Menu{
 
   override def menu(): Unit = {
     
+    // Menu will close when enemy reaches 0 HP
     while (randomEnemyHP > 0) {
 
       println(" ")
@@ -57,10 +61,12 @@ class FightMenu extends Menu{
           println(f"You are hit for $randomEnemyDamage%s! You have $playerHPleft%s HP left!")
           println(" ")
 
+          // Player's state is saved after every turn in order for player status to persist throughout the game.
           player.SaveState(player.pname, player.pmaxhealth, playerHPleft, player.pdamage, player.gold, player.plevel, player.uniqueid)
 
           if (playerHPleft <= 0) {
-
+            
+            // Enemy's HP here is set to 0 in order to prevent menu from looping.
             randomEnemyHP = 0
 
             println(" ")
@@ -72,6 +78,7 @@ class FightMenu extends Menu{
             println(" You won the fight! Returning to dungeon entrance...")
             println(" ")
 
+            // Player is rewarded gold based on enemy gold drop variable. Player data is saved to database and returned to dungeon menu.
             player.gold = player.gold + randomenemy.egolddrop
 
             player.SaveState(player.pname, player.pmaxhealth, playerHPleft, player.pdamage, player.gold, player.plevel, player.uniqueid)
@@ -83,7 +90,7 @@ class FightMenu extends Menu{
         }
         case commandArgPattern(cmd, arg) if cmd == "2" => {
           println(" ")
-          println("You open your inventory")
+          println("You don't have anything in your inventory right now.")
           println(" ")
         }
         case commandArgPattern(cmd, arg) if cmd == "3" => {

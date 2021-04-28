@@ -11,12 +11,14 @@ class StartMenu extends Menu {
     override def menu(): Unit ={
         printWelcome()
 
+        // Establishing connection to obtain count to determine if a save file exists or not.
         val conn = PostgreSQLUtil.getConnection()
         val checkstmt = conn.prepareStatement("SELECT count(*) FROM currentplayerstate;")
         checkstmt.execute()
         val rs = checkstmt.getResultSet
         rs.next()
 
+        // Menu that loops as long as continueMenuLoop is specified to be true.
         var continueMenuLoop = true
         while (continueMenuLoop) {    
             printMenuOptions()
@@ -25,6 +27,7 @@ class StartMenu extends Menu {
             input match {
                 case commandArgPattern(cmd, arg) if cmd == "New_Game" => {
 
+                    // If the number returned is 0, there is no save file, so user will be brought to menu to create save state.
                     if(rs.getInt(1) == 0) {
 
                         println(" ")
@@ -35,6 +38,8 @@ class StartMenu extends Menu {
                         conn.close()
                         val NewGameMenu = new NewGameMenu
                         NewGameMenu.menu()
+
+                    // The game only allows one save file, hence why it is only else.
                     } else {
                         println(" ")
                         val overwrite = StdIn.readLine("Ah, adventurer, you may only have one save file! Would you like to overwrite it? (Y/N)  ")
@@ -46,6 +51,10 @@ class StartMenu extends Menu {
                                 println(" ")
                                 println("Very well adventurer, let us begin anew...  ")
                                 println(" ")
+
+                                // Deleting save file
+                                val deletefile = conn.prepareStatement("TRUNCATE TABLE currentplayerstate;")
+                                deletefile.execute()
 
                                 continueMenuLoop = false
                                 conn.close()
@@ -60,6 +69,7 @@ class StartMenu extends Menu {
                                 conn.close()
 
                             }
+                            // Cases past this point just to deal with if input isnt correctly specified.
                             case commandArgPattern(cmd, arg) => {
                                 println(" ")
                                 println("I'm not sure what that means!")
@@ -76,12 +86,14 @@ class StartMenu extends Menu {
                 }
                 case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
 
+                    // Check if there is a save file or not when selecting this option.
                     if(rs.getInt(1) == 0) {
 
                         println(" ")
                         println("It seems you don't have a save file yet. Please select New_Game in the title screen.")
                         println(" ")
 
+                    // If there is a save file, it will bring user to main game menu, as there is a load state in that menu.
                     } else {
 
                     continueMenuLoop = false
@@ -95,11 +107,7 @@ class StartMenu extends Menu {
                 case commandArgPattern(cmd, arg) if cmd == "Exit" => {
                     continueMenuLoop = false
                 }
-                case commandArgPattern(cmd, arg) if cmd == "debug" => {
-                    val drool = new RandomEnemy
-                    val dumb = "Mouse"
-                    drool.LoadState(dumb.replace("\"", ""))
-                }
+
                 case commandArgPattern(cmd, arg) => {
                     println(" ")
                     println("I'm not sure what that means!")
