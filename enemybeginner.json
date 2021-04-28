@@ -3,28 +3,28 @@
         "name": "Mouse",
         "health": 2,
         "damage": 1,
-        "speed": 2,
+        "golddrop": 1,
         "exp": 1
     },
     {
         "name": "Small Slime",
         "health": 5,
         "damage": 2,
-        "speed": 1,
+        "golddrop": 1,
         "exp": 2
     },
     {
         "name": "Small Spider",
         "health": 4,
         "damage": 1,
-        "speed": 3,
+        "golddrop": 1,
         "exp": 1
     },
     {
         "name": "Small Goblin",
         "health": 5,
         "damage": 3,
-        "speed": 2,
+        "golddrop": 2,
         "exp": 5
     }
 ]

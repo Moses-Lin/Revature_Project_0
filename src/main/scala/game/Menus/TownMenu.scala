@@ -36,9 +36,17 @@ class TownMenu extends Menu {
         case commandArgPattern(cmd, arg) if cmd == "Shop" => {
           println("You head to the town shop")
           continueMenuLoop = false
+          val shopmenu = new ShopMenu
+          shopmenu.menu()
         }
         case commandArgPattern(cmd, arg) if cmd == "Sleep" => {
-          println("You recover all your HP and recorded your progress")
+
+          player.HealDamage(1000)
+
+          println(" ")
+          println("You recover all your HP")
+          println(" ")
+
         }
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
@@ -78,14 +86,20 @@ class TownMenu extends Menu {
   override def printMenuOptions(): Unit = {
     List(
 	"                                                         ",
-	"                                                         ",
 	"        *************************************************",
+  "        *            You are currently home             *",
 	"        *                                               *",
-	"        *         You're Currently at Home              *",
+	"        *                  `'::::.                      *",
+  "        *                   _____A_                     *",
+  "        *                  /      /\\                    *",
+  "        *               __/__/\\__/  \\___                *",
+  "        *           ---/__|x '' x| /___/\\----           *",
+  "        *              |''|x'||'x| |' '||               *",
+  "        *              `^^`^^))^^`^  ^                  *",
 	"        *                                               *",
 	"        *     1. Dungeon |   Go to fight monsters       *",
 	"        *     2. Shop    |   Go to buy or sell items    *",
-	"        *     3. Sleep   |   Rest up and save progress  *",
+	"        *     3. Sleep   |   Rest up                    *",
   "        *     4. Exit    |   Exit the Game              *",
 	"        *                                               *",
 	"        *************************************************"

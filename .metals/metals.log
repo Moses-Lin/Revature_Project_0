@@ -20821,3 +20821,914 @@ WARNING: Unmatched cancel notification for request id 35
 [0m2021.04.27 22:55:12 INFO  time: compiled revature_project_0 in 2.58s[0m
 [0m2021.04.27 22:55:12 INFO  compiling revature_project_0 (1 scala source)[0m
 [0m2021.04.27 22:55:14 INFO  time: compiled revature_project_0 in 2.32s[0m
+[0m2021.04.27 22:57:42 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 22:57:44 INFO  time: compiled revature_project_0 in 1.66s[0m
+Apr 27, 2021 10:57:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 418
+Apr 27, 2021 10:57:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 424
+[0m2021.04.27 22:58:31 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 22:58:31 INFO  time: compiled revature_project_0 in 0.71s[0m
+Apr 27, 2021 10:58:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 503
+Apr 27, 2021 10:58:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 514
+[0m2021.04.27 22:59:57 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 22:59:57 INFO  time: compiled revature_project_0 in 0.99s[0m
+[0m2021.04.27 23:00:28 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:00:28 INFO  time: compiled revature_project_0 in 0.91s[0m
+Apr 27, 2021 11:00:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 776
+Apr 27, 2021 11:00:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 784
+Apr 27, 2021 11:00:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 793
+[0m2021.04.27 23:01:18 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:01:18 INFO  time: compiled revature_project_0 in 0.87s[0m
+[0m2021.04.27 23:08:15 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:15 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:15 INFO  time: compiled revature_project_0 in 75ms[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:45 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:47 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:48 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:96:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:33: stale bloop error: empty character literal
+  "        *           ---/__|" '' "| /___/\----           *",
+                                ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:45: stale bloop error: invalid escape character
+  "        *           ---/__|" '' "| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:35: stale bloop error: unclosed character literal (or use " for string literal "||")
+  "        *              |''|"'||'"| |' '||               *",
+                                  ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:98:61: stale bloop error: unclosed string literal
+  "        *              |''|"'||'"| |' '||               *",
+                                                            ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:99:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:55 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:08:55 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:08:55 INFO  time: compiled revature_project_0 in 76ms[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:09:08 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:09:09 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:17 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:18 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:93:40: stale bloop error: invalid escape character
+  "        *                  /      /\                    *",
+                                       ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:35: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                  ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:94:41: stale bloop error: invalid escape character
+  "        *               __/__/\__/  \___                *",
+                                        ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:95:45: stale bloop error: invalid escape character
+  "        *           ---/__|x '' x| /___/\----           *",
+                                            ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:23 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:10:23 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:10:23 INFO  time: compiled revature_project_0 in 0.19s[0m
+[0m2021.04.27 23:11:10 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:10 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:10 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:10 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:12 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:12 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:12 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:12 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:20 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:21 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:27 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:28 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:28 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:30 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:33 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:33 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:33 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:33 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:36 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:36 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:36 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:36 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:37 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:38 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:38 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:41 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:42 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:43 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:44 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:46 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:46 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:46 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:46 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:50 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:50 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:50 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:50 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:51 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:51 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:51 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:39: stale bloop error: unclosed quoted identifier
+  "        *              `""`""))""`"`                    *",
+                                      ^[0m
+[0m2021.04.27 23:11:51 INFO  /home/sadcat/myfolder/Revature_Project_0/src/main/scala/game/Menus/TownMenu.scala:97:29: stale bloop error: ')' expected but string literal found.
+  "        *              `""`""))""`"`                    *",
+                            ^[0m
+[0m2021.04.27 23:11:53 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:11:53 INFO  time: compiled revature_project_0 in 0.97s[0m
+[0m2021.04.27 23:12:56 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.27 23:12:56 INFO  time: compiled revature_project_0 in 0.79s[0m
+Apr 27, 2021 11:13:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1854
+Apr 27, 2021 11:14:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1907
