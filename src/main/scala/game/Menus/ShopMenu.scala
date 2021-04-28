@@ -46,7 +46,23 @@ class ShopMenu extends Menu {
 
                     player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
                 }
-                case commandArgPattern(cmd, arg) if cmd == "Exit" => {
+                case commandArgPattern(cmd, arg) if cmd == "4" => {
+                    
+                    println(" ")
+                    println("Purchased!")
+                    println(" ")
+
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                }
+                case commandArgPattern(cmd, arg) if cmd == "5" => {
+                    
+                    println(" ")
+                    println("Purchased!")
+                    println(" ")
+
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                }
+                case commandArgPattern(cmd, arg) if cmd == "6" => {
                     
                     println(" ")
                     println("You leave the store.")
@@ -76,24 +92,26 @@ class ShopMenu extends Menu {
 
     override def printMenuOptions(): Unit = {
         List(
-	"                                                         ",
-	"                                                         ",
-	"        *************************************************",
-	"        *                                               *",
-	"        *         You're currently in a shop            *",
-    s"        *        You have $currentgold gold on hand               *",
-    "        *                                               *",
-    "        *          (Y) (X) (=) (>+<) /`-'\\              *",
-    "        *           |   |   |    |   \\,T./              *",   
-    "        *           |   |   |    |     |                *",
-    "        *                              |                *",
-	"        *                                               *",
-	"        *     1.          |                             *",
-    "        *     2.          |                             *",
-    "        *     3.          |                             *",
-    "        *     4. Exit     | Leave the shop              *",
-	"        *                                               *",
-	"        *************************************************"
+	"                                                                     ",
+	"                                                                     ",
+	"        *************************************************************",
+	"        *                                                           *",
+	"        *              You're currently in a shop                   *",
+    s"        *           You have $currentgold gold on hand                        *",
+    "        *                                                           *",
+    "        *               (Y) (X) (=) (>+<) /`-'\\                     *",
+    "        *                |   |   |    |   \\,T./                     *",   
+    "        *                |   |   |    |     |                       *",
+    "        *                                   |                       *",
+	"        *                                                           *",
+	"        *     1. Potion               | Heals 10 HP (combat)        *",
+    "        *     2. Enchanted Stone      | Makes you stronger          *",
+    "        *     3. Strange Mushroom     | Makes you stronger          *",
+    "        *     4. Bomb                 | Does 10 damage (combat)     *",
+    "        *     5. Protecting STone     | Reduce damage taken         *",
+    "        *     6. Exit                 | Leave the shop              *",
+	"        *                                                           *",
+	"        *************************************************************"
     ).foreach(println)
     }
 }

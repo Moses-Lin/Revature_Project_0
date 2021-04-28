@@ -27,19 +27,19 @@ class TownMenu extends Menu {
 
       var input = StdIn.readLine()
       input match {
-        case commandArgPattern(cmd, arg) if cmd == "Dungeon" => {
+        case commandArgPattern(cmd, arg) if cmd == "1" => {
           println("You head to the nearby dungeon to fight monsters")
           continueMenuLoop = false
           val DungeonMenu = new DungeonMenu
           DungeonMenu.menu()
         }
-        case commandArgPattern(cmd, arg) if cmd == "Shop" => {
+        case commandArgPattern(cmd, arg) if cmd == "2" => {
           println("You head to the town shop")
           continueMenuLoop = false
           val shopmenu = new ShopMenu
           shopmenu.menu()
         }
-        case commandArgPattern(cmd, arg) if cmd == "Sleep" => {
+        case commandArgPattern(cmd, arg) if cmd == "3" => {
 
           player.HealDamage(1000)
 
@@ -50,7 +50,7 @@ class TownMenu extends Menu {
           player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)
 
         }
-        case commandArgPattern(cmd, arg) if cmd == "Exit" => {
+        case commandArgPattern(cmd, arg) if cmd == "4" => {
           continueMenuLoop = false
         }
         case commandArgPattern(cmd, arg) => {

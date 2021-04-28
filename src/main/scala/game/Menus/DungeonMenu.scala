@@ -23,7 +23,7 @@ class DungeonMenu extends Menu {
 
       var input = StdIn.readLine()
       input match {
-        case commandArgPattern(cmd, arg) if cmd == "Floor_1" => {
+        case commandArgPattern(cmd, arg) if cmd == "1" => {
 
           println(" ")
           println("You look for a fight.")
@@ -35,7 +35,7 @@ class DungeonMenu extends Menu {
           FightMenu.menu()
         }
 
-        case commandArgPattern(cmd, arg) if cmd == "Floor_2" => {
+        case commandArgPattern(cmd, arg) if cmd == "2" => {
 
           if (currentlevel < 10) {
           
@@ -56,7 +56,7 @@ class DungeonMenu extends Menu {
           }
         }
 
-        case commandArgPattern(cmd, arg) if cmd == "Floor_3" => {
+        case commandArgPattern(cmd, arg) if cmd == "3" => {
 
           if (currentlevel < 20) {
           
@@ -77,7 +77,7 @@ class DungeonMenu extends Menu {
           }
         }
 
-        case commandArgPattern(cmd, arg) if cmd == "Exit" => {
+        case commandArgPattern(cmd, arg) if cmd == "4" => {
 
           continueMenuLoop = false
           val TownMenu = new TownMenu

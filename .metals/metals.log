@@ -23067,3 +23067,27 @@ WARNING: Unmatched cancel notification for request id 23699
 [0m2021.04.28 05:31:42 INFO  time: compiled revature_project_0 in 0.69s[0m
 [0m2021.04.28 05:31:46 INFO  compiling revature_project_0 (1 scala source)[0m
 [0m2021.04.28 05:31:46 INFO  time: compiled revature_project_0 in 0.73s[0m
+Apr 28, 2021 5:33:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23745
+Apr 28, 2021 5:33:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23751
+[0m2021.04.28 05:33:50 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 05:33:50 INFO  time: compiled revature_project_0 in 0.66s[0m
+Apr 28, 2021 5:34:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23926
+[0m2021.04.28 05:43:19 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 05:43:19 INFO  time: compiled revature_project_0 in 0.66s[0m
+[0m2021.04.28 05:43:35 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 05:43:35 INFO  time: compiled revature_project_0 in 0.74s[0m
+Apr 28, 2021 5:44:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25110
+[0m2021.04.28 05:44:37 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 05:44:37 INFO  time: compiled revature_project_0 in 0.69s[0m
+Apr 28, 2021 5:44:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25148
+Apr 28, 2021 5:44:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25153
+Apr 28, 2021 5:44:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25159
+[0m2021.04.28 05:45:05 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 05:45:05 INFO  time: compiled revature_project_0 in 0.69s[0m

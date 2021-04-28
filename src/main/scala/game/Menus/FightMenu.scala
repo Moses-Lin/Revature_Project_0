@@ -72,6 +72,8 @@ class FightMenu extends Menu{
             println(" You won the fight! Returning to dungeon entrance...")
             println(" ")
 
+            player.gold = player.gold + randomenemy.egolddrop
+
             player.SaveState(player.pname, player.pmaxhealth, playerHPleft, player.pdamage, player.gold, player.plevel, player.uniqueid)
 
             val DungeonMenu = new DungeonMenu
