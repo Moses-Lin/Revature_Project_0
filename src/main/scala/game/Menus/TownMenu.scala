@@ -35,6 +35,7 @@ class TownMenu extends Menu {
         }
         case commandArgPattern(cmd, arg) if cmd == "Shop" => {
           println("You head to the town shop")
+          continueMenuLoop = false
         }
         case commandArgPattern(cmd, arg) if cmd == "Sleep" => {
           println("You recover all your HP and recorded your progress")

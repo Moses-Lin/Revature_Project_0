@@ -51,12 +51,20 @@ class StartMenu extends Menu {
                                 NewGameMenu.menu()              
                             }
                             case commandArgPattern(cmd, arg) if cmd == "N" => {
-                                 continueMenuLoop = false
 
                                 println(" ")
                                 println("Very well adventurer, I shall bring you back to the title screen.")
                                 println(" ")
 
+                            }
+                            case commandArgPattern(cmd, arg) => {
+                                println(" ")
+                                println("I'm not sure what that means!")
+                                println("I shall bring you back to the title screen")
+                                println(" ")
+                            }
+                            case _ => {
+                                println("Please enter an option on the menu!")
                             }
                         }
                     }

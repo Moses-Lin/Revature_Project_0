@@ -41,11 +41,6 @@ class DungeonMenu extends Menu {
           FightMenu.menu()
         }
 
-        case commandArgPattern(cmd, arg) if cmd == "Floor_4" => {
-          println("You can't go here yet.")
-          
-        }
-
         case commandArgPattern(cmd, arg) if cmd == "Exit" => {
           continueMenuLoop = false
           val TownMenu = new TownMenu
@@ -75,14 +70,8 @@ class DungeonMenu extends Menu {
   }
   override def printWelcome(): Unit = {
 
-    val healthvalue = currentstats("currenthealth")
-    val levelvalue = currentstats("level")
-
     println(" ")
     println("You're now in a Dungeon.")
-    println("--------------------------------------------------------")
-    println(f"You currently have $healthvalue%s HP")
-    println(s"Your current level is: $levelvalue")
     println("--------------------------------------------------------")
     println(" ")
   }
@@ -98,7 +87,6 @@ class DungeonMenu extends Menu {
 	"        *     1. Floor_1  |   Beginner enemies          *",
   "        *     2. Floor_2  |   Intermediate enemies      *",
   "        *     3. Floor_3  |   Advanced enemies          *",
-  "        *     4. Floor_4  |   ????                      *",
   "        *     5. Exit     |   Head back to town         *",
 	"        *                                               *",
 	"        *************************************************"

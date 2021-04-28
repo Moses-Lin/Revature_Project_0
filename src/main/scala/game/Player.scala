@@ -12,11 +12,11 @@ class Player {
   var pmaxhealth = 0
   var pcurrenthealth = 0
   var pdamage = 0
-  var pspeed = 0
+  var gold = 0
   var plevel = 0
   var uniqueid = "null"
 
-    def SaveState(pname: String, pmaxhealth: Int, pcurrenthealth: Int, pdamage: Int, pspeed: Int, plevel: Int, uniqueid: String): Unit ={
+    def SaveState(pname: String, pmaxhealth: Int, pcurrenthealth: Int, pdamage: Int, gold: Int, plevel: Int, uniqueid: String): Unit ={
       val conn = PostgreSQLUtil.getConnection()
 
       val checkstmt = conn.prepareStatement("SELECT count(*) FROM currentplayerstate;")
@@ -38,7 +38,7 @@ class Player {
         insertstmt.setInt(2, pmaxhealth)
         insertstmt.setInt(3, pcurrenthealth)
         insertstmt.setInt(4, pdamage)
-        insertstmt.setInt(5, pspeed)
+        insertstmt.setInt(5, gold)
         insertstmt.setInt(6, plevel)
         insertstmt.setString(7, uniqueid)
 
@@ -46,15 +46,15 @@ class Player {
         conn.close()
       } else {
 
-          val insertstmt2 = conn.prepareStatement("UPDATE currentplayerstate SET pmaxhealth = ?, pcurrenthealth = ?, pdamage =?, pspeed = ?, plevel = ? WHERE pname = ? AND uniqueid = ?")
+          val insertstmt2 = conn.prepareStatement("UPDATE currentplayerstate SET pname = ?, pmaxhealth = ?, pcurrenthealth = ?, pdamage = ?, gold = ?, plevel = ?, uniqueid = ?;")
 
-          insertstmt2.setInt(1, pmaxhealth)
-          insertstmt2.setInt(2, pcurrenthealth)
-          insertstmt2.setInt(3, pdamage)
-          insertstmt2.setInt(4, pspeed)
-          insertstmt2.setInt(5, plevel)
-          insertstmt2.setString(7, pname) 
-          insertstmt2.setString(8, uniqueid) 
+          insertstmt2.setString(1, pname)
+          insertstmt2.setInt(2, pmaxhealth)
+          insertstmt2.setInt(3, pcurrenthealth)
+          insertstmt2.setInt(4, pdamage)
+          insertstmt2.setInt(5, gold)
+          insertstmt2.setInt(6, plevel) 
+          insertstmt2.setString(7, uniqueid) 
           insertstmt2.execute()
 
           conn.close() 
@@ -73,13 +73,35 @@ class Player {
       pmaxhealth = loadstateres.getInt(2)
       pcurrenthealth = loadstateres.getInt(3)
       pdamage = loadstateres.getInt(4)
-      pspeed = loadstateres.getInt(5)
+      gold = loadstateres.getInt(5)
       plevel = loadstateres.getInt(6)
       uniqueid = loadstateres.getString(7)
 
-
-
       }
+  
+  def TakeDamage(damage: Int): Unit = {
+
+    pcurrenthealth = pcurrenthealth - damage
+
+  }
+
+  def HealDamage(heal: Int): Unit = {
+
+    pcurrenthealth = pcurrenthealth + heal
+    if (pcurrenthealth > pmaxhealth) {
+      pcurrenthealth = pmaxhealth
+    }
+
+  }
+
+  def SpendMoney(cost: Int): Unit = {
+
+    gold = gold - cost
+    if (gold <= 0) {
+      gold = 0
+    }
+    
+  }
 }
       
     
