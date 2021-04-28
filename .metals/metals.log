@@ -22093,3 +22093,81 @@ WARNING: Unmatched cancel notification for request id 6650
 [0m2021.04.28 01:08:07 INFO  time: compiled revature_project_0 in 0.73s[0m
 [0m2021.04.28 01:08:41 INFO  compiling revature_project_0 (1 scala source)[0m
 [0m2021.04.28 01:08:41 INFO  time: compiled revature_project_0 in 0.85s[0m
+Apr 28, 2021 1:09:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7376
+Apr 28, 2021 1:09:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7381
+Apr 28, 2021 1:09:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7386
+Apr 28, 2021 1:09:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7392
+Apr 28, 2021 1:09:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7398
+Apr 28, 2021 1:10:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7403
+Apr 28, 2021 1:10:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7409
+Apr 28, 2021 1:10:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7415
+Apr 28, 2021 1:10:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7421
+Apr 28, 2021 1:10:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7427
+Apr 28, 2021 1:10:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7433
+Apr 28, 2021 1:10:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7439
+Apr 28, 2021 1:10:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7445
+Apr 28, 2021 1:10:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7451
+Apr 28, 2021 1:10:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7457
+Apr 28, 2021 1:29:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7477
+Apr 28, 2021 1:29:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7483
+Apr 28, 2021 2:00:25 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7490
+Apr 28, 2021 2:00:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7498
+Apr 28, 2021 2:00:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7503
+Apr 28, 2021 2:00:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7509
+Apr 28, 2021 2:00:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7515
+Apr 28, 2021 2:03:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7528
+Apr 28, 2021 2:06:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7534
+Apr 28, 2021 2:06:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7541
+Apr 28, 2021 2:06:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7547
+Apr 28, 2021 2:08:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7553
+Apr 28, 2021 2:09:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7559
+Apr 28, 2021 2:09:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7565
+Apr 28, 2021 2:09:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7571
+Apr 28, 2021 2:09:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7576
+Apr 28, 2021 2:09:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7582
+Apr 28, 2021 2:09:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7588
+Apr 28, 2021 2:11:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7595
+Apr 28, 2021 2:11:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7601
+[0m2021.04.28 02:14:16 INFO  compiling revature_project_0 (1 scala source)[0m
+[0m2021.04.28 02:14:16 INFO  time: compiled revature_project_0 in 0.71s[0m
+[0m2021.04.28 02:14:45 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.28 02:14:45 INFO  time: compiled revature_project_0 in 0.15s[0m
+[0m2021.04.28 02:14:45 INFO  compiling revature_project_0 (2 scala sources)[0m
+[0m2021.04.28 02:14:45 INFO  time: compiled revature_project_0 in 0.15s[0m
+Apr 28, 2021 2:14:47 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7927

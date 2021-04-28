@@ -5,31 +5,32 @@ import better.files._
 
 class FileCheck {
 
+    val MinimumFile = ujson.Arr(
+        ujson.Obj("name" -> "Mouse",
+            "health" -> 2,
+            "damage" ->  1,
+            "golddrop" -> 1,
+            "exp" -> 1),
+        ujson.Obj("name" -> "Small Slime",
+            "health" -> 5,
+            "damage" ->  2,
+            "golddrop" -> 1,
+            "exp" -> 2),
+        ujson.Obj("name" -> "Small Spider",
+            "health" -> 4,
+            "damage" ->  1,
+            "golddrop" -> 1,
+            "exp" -> 1),
+        ujson.Obj("name" -> "Small Goblin",
+            "health" -> 5,
+            "damage" ->  3,
+            "golddrop" -> 2,
+            "exp" -> 5)
+        )
+
   def check(): Unit = {
 
     try {
-        val MinimumFile = ujson.Arr(
-            ujson.Obj("name" -> "Mouse",
-                      "health" -> 2,
-                      "damage" ->  1,
-                      "golddrop" -> 1,
-                      "exp" -> 1),
-            ujson.Obj("name" -> "Small Slime",
-                      "health" -> 5,
-                      "damage" ->  2,
-                      "golddrop" -> 1,
-                      "exp" -> 2),
-            ujson.Obj("name" -> "Small Spider",
-                      "health" -> 4,
-                      "damage" ->  1,
-                      "golddrop" -> 1,
-                      "exp" -> 1),
-            ujson.Obj("name" -> "Small Goblin",
-                      "health" -> 5,
-                      "damage" ->  3,
-                      "golddrop" -> 2,
-                      "exp" -> 5)
-        )
 
         val jsonString = os.read(os.pwd/"enemybeginner.json")
         val testread = ujson.read(jsonString)
@@ -55,29 +56,8 @@ class FileCheck {
 
             case nsfe: NoSuchFileException => {
 
-                    val MinimumFile = ujson.Arr(
-                        ujson.Obj("name" -> "Mouse",
-                                  "health" -> 2,
-                                  "damage" ->  1,
-                                  "golddrop" -> 1,
-                                  "exp" -> 1),
-                        ujson.Obj("name" -> "Small Slime",
-                                  "health" -> 5,
-                                  "damage" ->  2,
-                                  "golddrop" -> 1,
-                                  "exp" -> 2),
-                        ujson.Obj("name" -> "Small Spider",
-                                  "health" -> 4,
-                                  "damage" ->  1,
-                                  "golddrop" -> 1,
-                                  "exp" -> 1),
-                        ujson.Obj("name" -> "Small Goblin",
-                                  "health" -> 5,
-                                  "damage" ->  3,
-                                  "golddrop" -> 2,
-                                  "exp" -> 5)
-        )
             os.write(os.pwd/"enemybeginner.json", MinimumFile)
+            
             }
         }
     }
