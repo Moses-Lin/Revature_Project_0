@@ -5,6 +5,7 @@ import better.files._
 
 class FileCheckEnemy {
 
+    // uJSON object created in order to validate the json fils already existing.
     val MinimumFile = ujson.Arr(
         ujson.Obj("name" -> "Mouse",
             "health" -> 2,

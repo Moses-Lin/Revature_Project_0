@@ -17,8 +17,13 @@ class JsonToDatabase {
         val weakenemystats = ujson.read(jsonString)
         var i = 0
 
+        // Connection is made to database to see if any entries exist in database
+        // If not, then the application will generate database entries from what is read in the JSON files.
         if(rs.getInt(1) == 0) {
-                    
+            
+            // A try/catch is used here to determine the number of rows the json file has using exception as a stopper.
+            // variable i is used to record the number of loops, and is then used to insert every entry in JSON file into database
+            // per loop
             try {
                 while (i > -1) {
                     weakenemystats(i)

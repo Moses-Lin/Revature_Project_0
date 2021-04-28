@@ -8,9 +8,11 @@ import scala.annotation.varargs
 
 class TownMenu extends Menu {
 
+  // Player is constructed on this menu for the purpose of displaying current HP and to heal using sleep.
   var player = new Player
   player.LoadState()
 
+  // variables are assigned here in order to display them in string.
   var pcurrenthealth = player.pcurrenthealth
   var pmaxhealth = player.pmaxhealth
   var plevel = player.plevel

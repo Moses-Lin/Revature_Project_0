@@ -52,10 +52,6 @@ class StartMenu extends Menu {
                                 println("Very well adventurer, let us begin anew...  ")
                                 println(" ")
 
-                                // Deleting save file
-                                val deletefile = conn.prepareStatement("TRUNCATE TABLE currentplayerstate;")
-                                deletefile.execute()
-
                                 continueMenuLoop = false
                                 conn.close()
                                 val NewGameMenu = new NewGameMenu
