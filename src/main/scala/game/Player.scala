@@ -75,16 +75,10 @@ class Player {
       gold = loadstateres.getInt(5)
       plevel = loadstateres.getInt(6)
       uniqueid = loadstateres.getString(7)
-      
+
       conn.close()
       }
   
-  def TakeDamage(damage: Int): Unit = {
-
-    pcurrenthealth = pcurrenthealth - damage
-
-  }
-
   def HealDamage(heal: Int): Unit = {
 
     pcurrenthealth = pcurrenthealth + heal
@@ -94,14 +88,6 @@ class Player {
 
   }
 
-  def SpendMoney(cost: Int): Unit = {
-
-    gold = gold - cost
-    if (gold <= 0) {
-      gold = 0
-    }
-    
-  }
 }
       
     

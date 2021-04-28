@@ -6,6 +6,8 @@ import game.com.revature.dbcli.PostgreSQLUtil
 
 class ShopMenu extends Menu {
 
+    var shopItems = new ShopStock
+
     var player = new Player
     player.LoadState()
     var currentgold = player.gold
@@ -24,43 +26,64 @@ class ShopMenu extends Menu {
             input match {
                 case commandArgPattern(cmd, arg) if cmd == "1" => {
 
+                    var choice = "Potion"
+                    shopItems.LoadState(choice)
+
                     println(" ")
                     println("Purchased!")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)                    
                 }
                 case commandArgPattern(cmd, arg) if cmd == "2" => {
+
+                    var choice = "Enchanted Stone"
+                    shopItems.LoadState(choice)
                     
                     println(" ")
-                    println("Purchased!")
+                    println("Purchased! You feel the power of the enchanted stone...")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)
+                    currentgold = currentgold - shopItems.buyprice
+                    player.pdamage = player.pdamage + shopItems.buff
+
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)
                 }
                 case commandArgPattern(cmd, arg) if cmd == "3" => {
+
+                    var choice = "Strange Mushroom"
+                    shopItems.LoadState(choice)
                     
                     println(" ")
-                    println("Purchased!")
+                    println("Purchased! You eat the mushroom and feel healthier...")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                    currentgold = currentgold - shopItems.buyprice
+                    player.pmaxhealth = player.pmaxhealth + shopItems.buff
+
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)                    
                 }
                 case commandArgPattern(cmd, arg) if cmd == "4" => {
+
+                    var choice = "Bomb"
+                    shopItems.LoadState(choice)
                     
                     println(" ")
                     println("Purchased!")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)                    
                 }
                 case commandArgPattern(cmd, arg) if cmd == "5" => {
+
+                    var choice = "Protecting Stone"
+                    shopItems.LoadState(choice)
                     
                     println(" ")
                     println("Purchased!")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)                    
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)                    
                 }
                 case commandArgPattern(cmd, arg) if cmd == "6" => {
                     
@@ -68,7 +91,7 @@ class ShopMenu extends Menu {
                     println("You leave the store.")
                     println(" ")
 
-                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, player.gold, player.plevel, player.uniqueid)
+                    player.SaveState(player.pname, player.pmaxhealth, player.pcurrenthealth, player.pdamage, currentgold, player.plevel, player.uniqueid)
 
                     continueMenuLoop = false
                     val TownMenu = new TownMenu
@@ -97,7 +120,7 @@ class ShopMenu extends Menu {
 	"        *************************************************************",
 	"        *                                                           *",
 	"        *              You're currently in a shop                   *",
-    s"        *           You have $currentgold gold on hand                        *",
+    s"        *              You have $currentgold gold on hand                     *",
     "        *                                                           *",
     "        *               (Y) (X) (=) (>+<) /`-'\\                     *",
     "        *                |   |   |    |   \\,T./                     *",   
