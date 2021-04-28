@@ -1,33 +1,38 @@
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
 [0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
-[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 19 products, 15 sources, 7 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 17 products, 13 sources, 7 libraries[0m
 [0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/src/main/scala/game/Menus/Menu.scala, ${BASE}/src/main/scala/game/RandomEnemy.scala, ${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Utility/PostgreSQLUtil.scala, ${BASE}/src/main/scala/game/Main.scala, ${BASE}/src/main/scala/game/Utility/FileCheck.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala, ${BASE}/src/main/scala/game/Utility/Time.scala, ${BASE}/src/main/scala/game/Menus/ShopMenu.scala, ${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Menus/StartMenu.scala, ${BASE}/src/main/scala/game/Player.scala, ${BASE}/src/main/scala/game/Menus/FightMenu.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/src/main/scala/game/Utility/FileCheck.scala), removed = Set(${BASE}/src/main/scala/game/PlayerValues/Gold.scala, ${BASE}/src/main/scala/game/FileCheck.scala, ${BASE}/src/main/scala/game/PlayerValues/Experience.scala), changed = Set(${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Player.scala, ${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(), removed = Set(), changed = Set(${BASE}/src/main/scala/game/Menus/DungeonMenu.scala), unmodified = ...),Set(),Set(),API Changes: Set())[0m
 [0m[[0m[0mdebug[0m] [0m[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial source changes:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	removed: Set(${BASE}/src/main/scala/game/PlayerValues/Gold.scala, ${BASE}/src/main/scala/game/FileCheck.scala, ${BASE}/src/main/scala/game/PlayerValues/Experience.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	added: Set(${BASE}/src/main/scala/game/Utility/FileCheck.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Player.scala, ${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(${BASE}/src/main/scala/game/Menus/DungeonMenu.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(game.Player, game.Main, game.Experience, game.Gold, game.FileCheck, game.TownMenu, game.NewGameMenu, game.DungeonMenu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(game.DungeonMenu)[0m
 [0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
 [0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(game.Player, game.Main, game.Experience, game.Gold, game.FileCheck, game.TownMenu, game.NewGameMenu, game.DungeonMenu)[0m
-[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/game/Menus/DungeonMenu.scala, ${BASE}/src/main/scala/game/Utility/FileCheck.scala, ${BASE}/src/main/scala/game/Menus/NewGameMenu.scala, ${BASE}/src/main/scala/game/Menus/TownMenu.scala, ${BASE}/src/main/scala/game/Player.scala)[0m
-[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: game.Player, game.Main, game.Experience, game.Gold, game.FileCheck, game.TownMenu, game.NewGameMenu, game.DungeonMenu[0m
-[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(game.DungeonMenu)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/src/main/scala/game/Menus/DungeonMenu.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: game.DungeonMenu[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 13 Scala sources to /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.4.4:compile for Scala 2.13.3[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 633b1941 for Scala compiler version 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 5915c1c8 for Scala compiler version 2.13.3[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
 [0m[[0m[0mdebug[0m] [0m[0m	/home/sadcat/myfolder/Revature_Project_0/target/scala-2.13/classes:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/postgresql/postgresql/42.2.19/postgresql-42.2.19.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_2.13/0.9.5/upickle_2.13-0.9.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/os-lib_2.13/0.7.3/os-lib_2.13-0.7.3.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/pathikrit/better-files_2.13/3.8.0/better-files_2.13-3.8.0.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_2.13/0.9.5/ujson_2.13-0.9.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_2.13/0.9.5/upack_2.13-0.9.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_2.13/0.9.5/upickle-implicits_2.13-0.9.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_2.13/0.6.5/geny_2.13-0.6.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_2.13/0.9.5/upickle-core_2.13-0.9.5.jar:/home/sadcat/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.13/2.0.0/scala-collection-compat_2.13-2.0.0.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.2544087 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFinal step, transitive dependencies:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.5360723 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m

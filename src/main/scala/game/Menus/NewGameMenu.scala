@@ -1,10 +1,7 @@
 package game
 
 import scala.io.StdIn
-import scala.collection.mutable.Map
-import scala.annotation.varargs
 import java.nio.file.FileAlreadyExistsException
-import better.files._
 import java.util.UUID
 
 class NewGameMenu extends Menu {

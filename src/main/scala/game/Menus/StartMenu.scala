@@ -11,6 +11,12 @@ class StartMenu extends Menu {
     override def menu(): Unit ={
         printWelcome()
 
+        val conn = PostgreSQLUtil.getConnection()
+        val checkstmt = conn.prepareStatement("SELECT count(*) FROM currentplayerstate;")
+        checkstmt.execute()
+        val rs = checkstmt.getResultSet
+        rs.next()
+
         var continueMenuLoop = true
         while (continueMenuLoop) {    
             printMenuOptions()
@@ -18,12 +24,6 @@ class StartMenu extends Menu {
             var input = StdIn.readLine()
             input match {
                 case commandArgPattern(cmd, arg) if cmd == "New_Game" => {
-                    
-                    val conn = PostgreSQLUtil.getConnection()
-                    val checkstmt = conn.prepareStatement("SELECT count(*) FROM currentplayerstate;")
-                    checkstmt.execute()
-                    val rs = checkstmt.getResultSet
-                    rs.next()
 
                     if(rs.getInt(1) == 0) {
 
@@ -32,6 +32,7 @@ class StartMenu extends Menu {
                         println(" ")
 
                         continueMenuLoop = false
+                        conn.close()
                         val NewGameMenu = new NewGameMenu
                         NewGameMenu.menu()
                     } else {
@@ -47,6 +48,7 @@ class StartMenu extends Menu {
                                 println(" ")
 
                                 continueMenuLoop = false
+                                conn.close()
                                 val NewGameMenu = new NewGameMenu
                                 NewGameMenu.menu()              
                             }
@@ -55,6 +57,7 @@ class StartMenu extends Menu {
                                 println(" ")
                                 println("Very well adventurer, I shall bring you back to the title screen.")
                                 println(" ")
+                                conn.close()
 
                             }
                             case commandArgPattern(cmd, arg) => {
@@ -62,15 +65,32 @@ class StartMenu extends Menu {
                                 println("I'm not sure what that means!")
                                 println("I shall bring you back to the title screen")
                                 println(" ")
+                                conn.close()
                             }
                             case _ => {
                                 println("Please enter an option on the menu!")
+                                conn.close()
                             }
                         }
                     }
                 }
                 case commandArgPattern(cmd, arg) if cmd == "Saved_Game" => {
+
+                    if(rs.getInt(1) == 0) {
+
+                        println(" ")
+                        println("It seems you don't have a save file yet. Please select New_Game in the title screen.")
+                        println(" ")
+
+                    } else {
+
                     continueMenuLoop = false
+                    conn.close()
+
+                    val TownMenu = new TownMenu
+                    TownMenu.menu()
+
+                    }
                 }
                 case commandArgPattern(cmd, arg) if cmd == "Exit" => {
                     continueMenuLoop = false
